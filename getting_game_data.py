@@ -4,6 +4,7 @@ from bs4 import BeautifulSoup
 import logging
 import time
 import random
+from scrape_helper_functions import fetch_with_retry
 
 # Configure logging
 logging.basicConfig(
@@ -24,12 +25,13 @@ headers = {
 }
 
 game_info = {}
-
+num_links_scraped = 0
 for link in links:
     logging.info(f"Fetching link: {link}")
     try: 
-        response = requests.get(link, headers=headers)
-        response.raise_for_status()
+        response = fetch_with_retry(link, headers=headers)
+        if not response:
+            continue
     except requests.exceptions.RequestException as e:
         if response.status_code == 429:
             logging.warning(f"Rate-limited on page: {link}. Retrying after 30 seconds.")
@@ -72,8 +74,14 @@ for link in links:
         "metacritic_score": metascore,
         "user_score": user_score
     }
+    if num_links_scraped % 100 == 0:  # Save progress every 100 links
+        with open('game_info_backup.json', 'w') as backup_file:
+            json.dump(game_info, backup_file, indent=4)
+        logging.info(f"Progress saved after scraping {num_links_scraped} links.")
 
-
+    num_links_scraped += 1
+    num_links_remaining = len(links) - num_links_scraped
+    logging.info(f"Scraped data from {num_links_scraped} out of {len(links)} links. {num_links_remaining} links remaining.")
     logging.info(f"Added data for: {title}")
 
     # Random delay to avoid being rate-limited
