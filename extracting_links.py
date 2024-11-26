@@ -44,8 +44,7 @@ for page_number in range(1,pages+1):
         logging.warning(f"No links found on page {page_number}. Total links so far: {len(links)}")
     
     for anchor in anchor_tags:
-        href = anchor.get('href')
-        if href:
+        if href := anchor.get('href'):
             full_url = f"https://www.metacritic.com{href}"
             if full_url in links:
                 duplicate_links += 1
