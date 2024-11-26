@@ -73,6 +73,7 @@ for link in links:
         "user_score": user_score
     }
 
+
     logging.info(f"Added data for: {title}")
 
     # Random delay to avoid being rate-limited
