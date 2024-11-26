@@ -1,0 +1,7876 @@
+{
+    "The Legend of Zelda: Ocarina of Time": {
+        "platforms": [
+            "nintendo-64"
+        ],
+        "release_date": "Nov 23, 1998",
+        "genres": [
+            "Open-World Action"
+        ],
+        "metacritic_score": "99",
+        "user_score": "9.1"
+    },
+    "SoulCalibur": {
+        "platforms": [
+            "dreamcast",
+            "ios-iphoneipad",
+            "xbox-360"
+        ],
+        "release_date": "Sep 8, 1999",
+        "genres": [
+            "3D Fighting"
+        ],
+        "metacritic_score": "98",
+        "user_score": "7.8"
+    },
+    "Grand Theft Auto IV": {
+        "platforms": [
+            "playstation-3",
+            "xbox-360",
+            "pc"
+        ],
+        "release_date": "Apr 29, 2008",
+        "genres": [
+            "Open-World Action"
+        ],
+        "metacritic_score": "98",
+        "user_score": "8.2"
+    },
+    "Super Mario Galaxy": {
+        "platforms": [
+            "wii"
+        ],
+        "release_date": "Nov 12, 2007",
+        "genres": [
+            "3D Platformer"
+        ],
+        "metacritic_score": "97",
+        "user_score": "9.1"
+    },
+    "Super Mario Galaxy 2": {
+        "platforms": [
+            "wii"
+        ],
+        "release_date": "May 23, 2010",
+        "genres": [
+            "3D Platformer"
+        ],
+        "metacritic_score": "97",
+        "user_score": "9.0"
+    },
+    "The Legend of Zelda: Breath of the Wild": {
+        "platforms": [
+            "wii-u",
+            "nintendo-switch"
+        ],
+        "release_date": "Mar 3, 2017",
+        "genres": [
+            "Open-World Action"
+        ],
+        "metacritic_score": "97",
+        "user_score": "8.8"
+    },
+    "Tony Hawk's Pro Skater 3": {
+        "platforms": [
+            "playstation-2",
+            "gamecube",
+            "xbox",
+            "playstation",
+            "pc",
+            "game-boy-advance"
+        ],
+        "release_date": "Oct 30, 2001",
+        "genres": [
+            "Skating"
+        ],
+        "metacritic_score": "97",
+        "user_score": "7.7"
+    },
+    "Perfect Dark (2000)": {
+        "platforms": [
+            "nintendo-64",
+            "xbox-360"
+        ],
+        "release_date": "May 22, 2000",
+        "genres": [
+            "FPS"
+        ],
+        "metacritic_score": "97",
+        "user_score": "8.5"
+    },
+    "Red Dead Redemption 2": {
+        "platforms": [
+            "xbox-one",
+            "playstation-4",
+            "pc"
+        ],
+        "release_date": "Oct 26, 2018",
+        "genres": [
+            "Open-World Action"
+        ],
+        "metacritic_score": "97",
+        "user_score": "8.9"
+    },
+    "Grand Theft Auto V": {
+        "platforms": [
+            "playstation-3",
+            "xbox-360",
+            "playstation-4",
+            "xbox-one",
+            "pc",
+            "playstation-5",
+            "xbox-series-x"
+        ],
+        "release_date": "Nov 18, 2014",
+        "genres": [
+            "Open-World Action"
+        ],
+        "metacritic_score": "97",
+        "user_score": "8.5"
+    },
+    "Metroid Prime": {
+        "platforms": [
+            "gamecube"
+        ],
+        "release_date": "Nov 17, 2002",
+        "genres": [
+            "FPS"
+        ],
+        "metacritic_score": "97",
+        "user_score": "9.1"
+    },
+    "Grand Theft Auto III": {
+        "platforms": [
+            "playstation-2",
+            "pc",
+            "playstation-4"
+        ],
+        "release_date": "Oct 22, 2001",
+        "genres": [
+            "Open-World Action"
+        ],
+        "metacritic_score": "97",
+        "user_score": "8.1"
+    },
+    "Super Mario Odyssey": {
+        "platforms": [
+            "nintendo-switch"
+        ],
+        "release_date": "Oct 27, 2017",
+        "genres": [
+            "3D Platformer"
+        ],
+        "metacritic_score": "97",
+        "user_score": "8.9"
+    },
+    "Halo: Combat Evolved": {
+        "platforms": [
+            "pc",
+            "xbox"
+        ],
+        "release_date": "Nov 15, 2001",
+        "genres": [
+            "FPS"
+        ],
+        "metacritic_score": "97",
+        "user_score": "8.6"
+    },
+    "NFL 2K1": {
+        "platforms": [
+            "dreamcast"
+        ],
+        "release_date": "Sep 7, 2000",
+        "genres": [
+            "Football Sim"
+        ],
+        "metacritic_score": "97",
+        "user_score": "5.9"
+    },
+    "Half-Life 2": {
+        "platforms": [
+            "pc",
+            "xbox"
+        ],
+        "release_date": "Nov 16, 2004",
+        "genres": [
+            "FPS"
+        ],
+        "metacritic_score": "96",
+        "user_score": "9.1"
+    },
+    "BioShock": {
+        "platforms": [
+            "xbox-360",
+            "pc",
+            "playstation-3",
+            "ios-iphoneipad"
+        ],
+        "release_date": "Aug 21, 2007",
+        "genres": [
+            "FPS"
+        ],
+        "metacritic_score": "96",
+        "user_score": "8.8"
+    },
+    "GoldenEye 007": {
+        "platforms": [
+            "nintendo-64",
+            "xbox-series-x"
+        ],
+        "release_date": "Aug 25, 1997",
+        "genres": [
+            "FPS"
+        ],
+        "metacritic_score": "96",
+        "user_score": "8.9"
+    },
+    "Uncharted 2: Among Thieves": {
+        "platforms": [
+            "playstation-3"
+        ],
+        "release_date": "Oct 13, 2009",
+        "genres": [
+            "Linear Action Adventure"
+        ],
+        "metacritic_score": "96",
+        "user_score": "8.8"
+    },
+    "Resident Evil 4 (2005)": {
+        "platforms": [
+            "gamecube",
+            "playstation-2",
+            "pc",
+            "wii"
+        ],
+        "release_date": "Jan 11, 2005",
+        "genres": [
+            "Survival"
+        ],
+        "metacritic_score": "96",
+        "user_score": "9.1"
+    },
+    "Baldur's Gate 3": {
+        "platforms": [
+            "pc",
+            "playstation-5",
+            "xbox-series-x"
+        ],
+        "release_date": "Aug 3, 2023",
+        "genres": [
+            "Western RPG"
+        ],
+        "metacritic_score": "96",
+        "user_score": "9.2"
+    },
+    "The Orange Box": {
+        "platforms": [
+            "pc",
+            "xbox-360",
+            "playstation-3"
+        ],
+        "release_date": "Oct 10, 2007",
+        "genres": [
+            "Compilation"
+        ],
+        "metacritic_score": "96",
+        "user_score": "8.8"
+    },
+    "Tekken 3": {
+        "platforms": [
+            "playstation"
+        ],
+        "release_date": "Apr 29, 1998",
+        "genres": [
+            "3D Fighting"
+        ],
+        "metacritic_score": "96",
+        "user_score": "8.9"
+    },
+    "Mass Effect 2": {
+        "platforms": [
+            "pc",
+            "xbox-360",
+            "playstation-3"
+        ],
+        "release_date": "Jan 26, 2010",
+        "genres": [
+            "Western RPG"
+        ],
+        "metacritic_score": "96",
+        "user_score": "8.9"
+    },
+    "The House in Fata Morgana - Dreams of the Revenants Edition -": {
+        "platforms": [
+            "nintendo-switch"
+        ],
+        "release_date": "Apr 9, 2021",
+        "genres": [
+            "Visual Novel"
+        ],
+        "metacritic_score": "96",
+        "user_score": "7.0"
+    },
+    "Elden Ring": {
+        "platforms": [
+            "pc",
+            "playstation-4",
+            "xbox-series-x",
+            "playstation-5"
+        ],
+        "release_date": "Feb 25, 2022",
+        "genres": [
+            "Action RPG"
+        ],
+        "metacritic_score": "96",
+        "user_score": "8.2"
+    },
+    "The Elder Scrolls V: Skyrim": {
+        "platforms": [
+            "xbox-360",
+            "pc",
+            "playstation-3"
+        ],
+        "release_date": "Nov 11, 2011",
+        "genres": [
+            "Western RPG"
+        ],
+        "metacritic_score": "96",
+        "user_score": "8.6"
+    },
+    "Half-Life": {
+        "platforms": [
+            "pc",
+            "playstation-2"
+        ],
+        "release_date": "Nov 19, 1998",
+        "genres": [
+            "FPS"
+        ],
+        "metacritic_score": "96",
+        "user_score": "9.0"
+    },
+    "The Legend of Zelda: Tears of the Kingdom": {
+        "platforms": [
+            "nintendo-switch"
+        ],
+        "release_date": "May 12, 2023",
+        "genres": [
+            "Open-World Action"
+        ],
+        "metacritic_score": "96",
+        "user_score": "8.8"
+    },
+    "The Legend of Zelda: The Wind Waker": {
+        "platforms": [
+            "gamecube"
+        ],
+        "release_date": "Mar 24, 2003",
+        "genres": [
+            "Open-World Action"
+        ],
+        "metacritic_score": "96",
+        "user_score": "9.0"
+    },
+    "Gran Turismo": {
+        "platforms": [
+            "playstation"
+        ],
+        "release_date": "May 12, 1998",
+        "genres": [
+            "Auto Racing Sim"
+        ],
+        "metacritic_score": "96",
+        "user_score": "Unknown Score"
+    },
+    "Metal Gear Solid 2: Sons of Liberty": {
+        "platforms": [
+            "playstation-2"
+        ],
+        "release_date": "Nov 12, 2001",
+        "genres": [
+            "Action Adventure"
+        ],
+        "metacritic_score": "96",
+        "user_score": "8.9"
+    },
+    "Grand Theft Auto Double Pack": {
+        "platforms": [
+            "xbox"
+        ],
+        "release_date": "Nov 4, 2003",
+        "genres": [
+            "Compilation"
+        ],
+        "metacritic_score": "96",
+        "user_score": "7.9"
+    },
+    "Portal: Companion Collection": {
+        "platforms": [
+            "nintendo-switch"
+        ],
+        "release_date": "Jun 28, 2022",
+        "genres": [
+            "Compilation"
+        ],
+        "metacritic_score": "95",
+        "user_score": "8.8"
+    },
+    "Baldur's Gate II: Shadows of Amn": {
+        "platforms": [
+            "pc"
+        ],
+        "release_date": "Sep 24, 2000",
+        "genres": [
+            "Western RPG"
+        ],
+        "metacritic_score": "95",
+        "user_score": "9.1"
+    },
+    "Grand Theft Auto: San Andreas": {
+        "platforms": [
+            "playstation-2",
+            "pc",
+            "xbox",
+            "ios-iphoneipad",
+            "xbox-360"
+        ],
+        "release_date": "Oct 26, 2004",
+        "genres": [
+            "Open-World Action"
+        ],
+        "metacritic_score": "95",
+        "user_score": "Unknown Score"
+    },
+    "Grand Theft Auto: Vice City": {
+        "platforms": [
+            "playstation-2",
+            "pc"
+        ],
+        "release_date": "Oct 29, 2002",
+        "genres": [
+            "Open-World Action"
+        ],
+        "metacritic_score": "95",
+        "user_score": "8.7"
+    },
+    "LittleBigPlanet": {
+        "platforms": [
+            "playstation-3",
+            "psp"
+        ],
+        "release_date": "Oct 27, 2008",
+        "genres": [
+            "2D Platformer"
+        ],
+        "metacritic_score": "95",
+        "user_score": "8.2"
+    },
+    "The Legend of Zelda Collector's Edition": {
+        "platforms": [
+            "gamecube"
+        ],
+        "release_date": "Nov 17, 2003",
+        "genres": [
+            "Compilation"
+        ],
+        "metacritic_score": "95",
+        "user_score": "8.9"
+    },
+    "Gran Turismo 3: A-Spec": {
+        "platforms": [
+            "playstation-2"
+        ],
+        "release_date": "Jul 9, 2001",
+        "genres": [
+            "Auto Racing Sim"
+        ],
+        "metacritic_score": "95",
+        "user_score": "8.4"
+    },
+    "Halo 2": {
+        "platforms": [
+            "pc",
+            "xbox"
+        ],
+        "release_date": "Nov 9, 2004",
+        "genres": [
+            "FPS"
+        ],
+        "metacritic_score": "95",
+        "user_score": "8.7"
+    },
+    "The Legend of Zelda: A Link to the Past / Four Swords": {
+        "platforms": [
+            "game-boy-advance"
+        ],
+        "release_date": "Dec 3, 2002",
+        "genres": [
+            "Open-World Action"
+        ],
+        "metacritic_score": "95",
+        "user_score": "8.9"
+    },
+    "The Legend of Zelda: Majora's Mask": {
+        "platforms": [
+            "nintendo-64"
+        ],
+        "release_date": "Oct 25, 2000",
+        "genres": [
+            "Open-World Action"
+        ],
+        "metacritic_score": "95",
+        "user_score": "9.1"
+    },
+    "The Last of Us": {
+        "platforms": [
+            "playstation-3"
+        ],
+        "release_date": "Jun 14, 2013",
+        "genres": [
+            "Linear Action Adventure"
+        ],
+        "metacritic_score": "95",
+        "user_score": "9.2"
+    },
+    "The Legend of Zelda: Twilight Princess": {
+        "platforms": [
+            "wii",
+            "gamecube"
+        ],
+        "release_date": "Nov 19, 2006",
+        "genres": [
+            "Open-World Action"
+        ],
+        "metacritic_score": "95",
+        "user_score": "8.8"
+    },
+    "Madden NFL 2003": {
+        "platforms": [
+            "playstation",
+            "playstation-2",
+            "xbox",
+            "gamecube",
+            "game-boy-advance",
+            "pc"
+        ],
+        "release_date": "Aug 12, 2002",
+        "genres": [
+            "Football Sim"
+        ],
+        "metacritic_score": "95",
+        "user_score": "7.1"
+    },
+    "Persona 5 Royal": {
+        "platforms": [
+            "playstation-4",
+            "xbox-series-x",
+            "pc",
+            "xbox-one",
+            "playstation-5",
+            "nintendo-switch"
+        ],
+        "release_date": "Mar 31, 2020",
+        "genres": [
+            "JRPG"
+        ],
+        "metacritic_score": "95",
+        "user_score": "8.7"
+    },
+    "The Last of Us Remastered": {
+        "platforms": [
+            "playstation-4"
+        ],
+        "release_date": "Jul 29, 2014",
+        "genres": [
+            "Linear Action Adventure"
+        ],
+        "metacritic_score": "95",
+        "user_score": "9.2"
+    },
+    "Red Dead Redemption": {
+        "platforms": [
+            "xbox-360",
+            "playstation-3"
+        ],
+        "release_date": "May 18, 2010",
+        "genres": [
+            "Open-World Action"
+        ],
+        "metacritic_score": "95",
+        "user_score": "8.9"
+    },
+    "Portal 2": {
+        "platforms": [
+            "pc",
+            "xbox-360",
+            "playstation-3"
+        ],
+        "release_date": "Apr 19, 2011",
+        "genres": [
+            "FPS"
+        ],
+        "metacritic_score": "95",
+        "user_score": "8.8"
+    },
+    "Final Fantasy IX": {
+        "platforms": [
+            "playstation",
+            "ios-iphoneipad",
+            "pc",
+            "playstation-4",
+            "nintendo-switch",
+            "xbox-one"
+        ],
+        "release_date": "Nov 13, 2000",
+        "genres": [
+            "JRPG"
+        ],
+        "metacritic_score": "94",
+        "user_score": "8.9"
+    },
+    "God of War": {
+        "platforms": [
+            "playstation-4",
+            "pc"
+        ],
+        "release_date": "Apr 20, 2018",
+        "genres": [
+            "Linear Action Adventure"
+        ],
+        "metacritic_score": "94",
+        "user_score": "9.1"
+    },
+    "Tony Hawk's Pro Skater 4": {
+        "platforms": [
+            "playstation-2",
+            "gamecube",
+            "xbox",
+            "playstation",
+            "game-boy-advance",
+            "pc"
+        ],
+        "release_date": "Oct 23, 2002",
+        "genres": [
+            "Skating"
+        ],
+        "metacritic_score": "94",
+        "user_score": "8.2"
+    },
+    "Elden Ring: Shadow of the Erdtree": {
+        "platforms": [
+            "pc",
+            "xbox-series-x",
+            "playstation-5"
+        ],
+        "release_date": "Jun 21, 2024",
+        "genres": [
+            "Action RPG"
+        ],
+        "metacritic_score": "94",
+        "user_score": "8.1"
+    },
+    "Astro Bot": {
+        "platforms": [
+            "playstation-5"
+        ],
+        "release_date": "Sep 6, 2024",
+        "genres": [
+            "3D Platformer"
+        ],
+        "metacritic_score": "94",
+        "user_score": "9.2"
+    },
+    "Devil May Cry": {
+        "platforms": [
+            "playstation-2",
+            "nintendo-switch"
+        ],
+        "release_date": "Oct 16, 2001",
+        "genres": [
+            "Linear Action Adventure"
+        ],
+        "metacritic_score": "94",
+        "user_score": "8.3"
+    },
+    "Madden NFL 2002": {
+        "platforms": [
+            "playstation-2",
+            "pc",
+            "xbox",
+            "nintendo-64",
+            "playstation",
+            "gamecube",
+            "game-boy-advance"
+        ],
+        "release_date": "Aug 19, 2001",
+        "genres": [
+            "Football Sim"
+        ],
+        "metacritic_score": "94",
+        "user_score": "4.8"
+    },
+    "Batman: Arkham City": {
+        "platforms": [
+            "pc",
+            "xbox-360",
+            "playstation-3",
+            "nintendo-switch"
+        ],
+        "release_date": "Oct 18, 2011",
+        "genres": [
+            "Open-World Action"
+        ],
+        "metacritic_score": "94",
+        "user_score": "8.8"
+    },
+    "Metroid Prime Remastered": {
+        "platforms": [
+            "nintendo-switch"
+        ],
+        "release_date": "Feb 8, 2023",
+        "genres": [
+            "FPS"
+        ],
+        "metacritic_score": "94",
+        "user_score": "8.9"
+    },
+    "The Legend of Zelda: Ocarina of Time 3D": {
+        "platforms": [
+            "3ds"
+        ],
+        "release_date": "Jun 19, 2011",
+        "genres": [
+            "Open-World Action"
+        ],
+        "metacritic_score": "94",
+        "user_score": "9.0"
+    },
+    "Chrono Cross": {
+        "platforms": [
+            "playstation"
+        ],
+        "release_date": "Aug 15, 2000",
+        "genres": [
+            "JRPG"
+        ],
+        "metacritic_score": "94",
+        "user_score": "8.8"
+    },
+    "Metaphor: ReFantazio": {
+        "platforms": [
+            "xbox-series-x",
+            "pc",
+            "playstation-5"
+        ],
+        "release_date": "Oct 11, 2024",
+        "genres": [
+            "JRPG"
+        ],
+        "metacritic_score": "94",
+        "user_score": "8.9"
+    },
+    "Madden NFL 2004": {
+        "platforms": [
+            "playstation",
+            "gamecube",
+            "playstation-2",
+            "game-boy-advance",
+            "xbox",
+            "pc"
+        ],
+        "release_date": "Aug 12, 2003",
+        "genres": [
+            "Football Sim"
+        ],
+        "metacritic_score": "94",
+        "user_score": "Unknown Score"
+    },
+    "Gears of War": {
+        "platforms": [
+            "xbox-360",
+            "pc"
+        ],
+        "release_date": "Nov 7, 2006",
+        "genres": [
+            "Third Person Shooter"
+        ],
+        "metacritic_score": "94",
+        "user_score": "8.2"
+    },
+    "The Elder Scrolls IV: Oblivion": {
+        "platforms": [
+            "xbox-360",
+            "pc",
+            "playstation-3"
+        ],
+        "release_date": "Mar 20, 2006",
+        "genres": [
+            "Western RPG"
+        ],
+        "metacritic_score": "94",
+        "user_score": "8.6"
+    },
+    "Sid Meier's Civilization II": {
+        "platforms": [
+            "pc"
+        ],
+        "release_date": "Feb 29, 1996",
+        "genres": [
+            "4X Strategy"
+        ],
+        "metacritic_score": "94",
+        "user_score": "8.6"
+    },
+    "Quake": {
+        "platforms": [
+            "pc",
+            "nintendo-64"
+        ],
+        "release_date": "Jun 22, 1996",
+        "genres": [
+            "FPS"
+        ],
+        "metacritic_score": "94",
+        "user_score": "8.7"
+    },
+    "Call of Duty 4: Modern Warfare": {
+        "platforms": [
+            "xbox-360",
+            "playstation-3",
+            "ds",
+            "pc",
+            "wii"
+        ],
+        "release_date": "Nov 5, 2007",
+        "genres": [
+            "FPS"
+        ],
+        "metacritic_score": "94",
+        "user_score": "8.5"
+    },
+    "BioShock Infinite": {
+        "platforms": [
+            "xbox-360",
+            "playstation-3",
+            "pc"
+        ],
+        "release_date": "Mar 25, 2013",
+        "genres": [
+            "FPS"
+        ],
+        "metacritic_score": "94",
+        "user_score": "8.6"
+    },
+    "Halo 3": {
+        "platforms": [
+            "xbox-360",
+            "pc"
+        ],
+        "release_date": "Sep 25, 2007",
+        "genres": [
+            "FPS"
+        ],
+        "metacritic_score": "94",
+        "user_score": "8.7"
+    },
+    "Ninja Gaiden Black": {
+        "platforms": [
+            "xbox"
+        ],
+        "release_date": "Sep 20, 2005",
+        "genres": [
+            "Action Adventure"
+        ],
+        "metacritic_score": "94",
+        "user_score": "8.8"
+    },
+    "Grim Fandango": {
+        "platforms": [
+            "pc"
+        ],
+        "release_date": "Oct 14, 1998",
+        "genres": [
+            "Third-Person Adventure"
+        ],
+        "metacritic_score": "94",
+        "user_score": "8.8"
+    },
+    "Super Mario Advance 4: Super Mario Bros. 3": {
+        "platforms": [
+            "game-boy-advance"
+        ],
+        "release_date": "Oct 21, 2003",
+        "genres": [
+            "2D Platformer"
+        ],
+        "metacritic_score": "94",
+        "user_score": "8.8"
+    },
+    "Metal Gear Solid": {
+        "platforms": [
+            "playstation",
+            "nintendo-switch"
+        ],
+        "release_date": "Oct 21, 1998",
+        "genres": [
+            "Action Adventure"
+        ],
+        "metacritic_score": "94",
+        "user_score": "8.8"
+    },
+    "Tom Clancy's Splinter Cell: Chaos Theory": {
+        "platforms": [
+            "3ds",
+            "pc",
+            "xbox",
+            "gamecube",
+            "playstation-2",
+            "ds"
+        ],
+        "release_date": "Mar 28, 2005",
+        "genres": [
+            "Action Adventure"
+        ],
+        "metacritic_score": "94",
+        "user_score": "8.6"
+    },
+    "God of War: Ragnarok": {
+        "platforms": [
+            "playstation-5",
+            "playstation-4",
+            "pc"
+        ],
+        "release_date": "Nov 9, 2022",
+        "genres": [
+            "Action Adventure"
+        ],
+        "metacritic_score": "94",
+        "user_score": "8.2"
+    },
+    "Resident Evil Code: Veronica": {
+        "platforms": [
+            "dreamcast"
+        ],
+        "release_date": "Feb 29, 2000",
+        "genres": [
+            "Survival"
+        ],
+        "metacritic_score": "94",
+        "user_score": "8.5"
+    },
+    "Burnout 3: Takedown": {
+        "platforms": [
+            "playstation-2",
+            "xbox"
+        ],
+        "release_date": "Sep 7, 2004",
+        "genres": [
+            "Auto Racing"
+        ],
+        "metacritic_score": "94",
+        "user_score": "8.8"
+    },
+    "Diablo": {
+        "platforms": [
+            "pc"
+        ],
+        "release_date": "Dec 31, 1996",
+        "genres": [
+            "Action RPG"
+        ],
+        "metacritic_score": "94",
+        "user_score": "8.6"
+    },
+    "Metal Gear Solid 3: Subsistence": {
+        "platforms": [
+            "playstation-2"
+        ],
+        "release_date": "Mar 14, 2006",
+        "genres": [
+            "Action Adventure"
+        ],
+        "metacritic_score": "94",
+        "user_score": "8.5"
+    },
+    "Call of Duty: Modern Warfare 2": {
+        "platforms": [
+            "pc",
+            "playstation-3",
+            "xbox-360"
+        ],
+        "release_date": "Nov 10, 2009",
+        "genres": [
+            "FPS"
+        ],
+        "metacritic_score": "94",
+        "user_score": "7.8"
+    },
+    "Metal Gear Solid 4: Guns of the Patriots": {
+        "platforms": [
+            "playstation-3"
+        ],
+        "release_date": "Jun 12, 2008",
+        "genres": [
+            "Action Adventure"
+        ],
+        "metacritic_score": "94",
+        "user_score": "8.7"
+    },
+    "God of War (2005)": {
+        "platforms": [
+            "playstation-2"
+        ],
+        "release_date": "Mar 22, 2005",
+        "genres": [
+            "Linear Action Adventure"
+        ],
+        "metacritic_score": "94",
+        "user_score": "8.8"
+    },
+    "Star Wars: Knights of the Old Republic": {
+        "platforms": [
+            "pc",
+            "xbox",
+            "ios-iphoneipad",
+            "nintendo-switch"
+        ],
+        "release_date": "Jul 17, 2003",
+        "genres": [
+            "Western RPG"
+        ],
+        "metacritic_score": "94",
+        "user_score": "9.0"
+    },
+    "Sid Meier's Civilization IV": {
+        "platforms": [
+            "pc"
+        ],
+        "release_date": "Oct 25, 2005",
+        "genres": [
+            "4X Strategy"
+        ],
+        "metacritic_score": "94",
+        "user_score": "8.4"
+    },
+    "Virtua Fighter 4": {
+        "platforms": [
+            "playstation-2"
+        ],
+        "release_date": "Mar 17, 2002",
+        "genres": [
+            "3D Fighting"
+        ],
+        "metacritic_score": "94",
+        "user_score": "7.8"
+    },
+    "Super Smash Bros. Brawl": {
+        "platforms": [
+            "wii"
+        ],
+        "release_date": "Mar 9, 2008",
+        "genres": [
+            "2D Fighting"
+        ],
+        "metacritic_score": "93",
+        "user_score": "8.8"
+    },
+    "Company of Heroes": {
+        "platforms": [
+            "pc",
+            "ios-iphoneipad"
+        ],
+        "release_date": "Sep 13, 2006",
+        "genres": [
+            "Real-Time Strategy"
+        ],
+        "metacritic_score": "93",
+        "user_score": "8.6"
+    },
+    "Gran Turismo 2": {
+        "platforms": [
+            "playstation",
+            "dreamcast"
+        ],
+        "release_date": "Dec 23, 1999",
+        "genres": [
+            "Auto Racing Sim"
+        ],
+        "metacritic_score": "93",
+        "user_score": "8.9"
+    },
+    "The Last of Us Part II": {
+        "platforms": [
+            "playstation-4"
+        ],
+        "release_date": "Jun 19, 2020",
+        "genres": [
+            "Survival"
+        ],
+        "metacritic_score": "93",
+        "user_score": "5.8"
+    },
+    "Tom Clancy's Splinter Cell: Pandora Tomorrow": {
+        "platforms": [
+            "xbox",
+            "playstation-2",
+            "pc",
+            "gamecube",
+            "game-boy-advance"
+        ],
+        "release_date": "Mar 23, 2004",
+        "genres": [
+            "Action Adventure"
+        ],
+        "metacritic_score": "93",
+        "user_score": "8.3"
+    },
+    "Grand Theft Auto: Chinatown Wars": {
+        "platforms": [
+            "ds",
+            "psp",
+            "ios-iphoneipad"
+        ],
+        "release_date": "Mar 17, 2009",
+        "genres": [
+            "Open-World Action"
+        ],
+        "metacritic_score": "93",
+        "user_score": "7.6"
+    },
+    "Pac-Man Championship Edition DX": {
+        "platforms": [
+            "xbox-360",
+            "playstation-3",
+            "ios-iphoneipad"
+        ],
+        "release_date": "Nov 17, 2010",
+        "genres": [
+            "Arcade"
+        ],
+        "metacritic_score": "93",
+        "user_score": "7.6"
+    },
+    "Dwarf Fortress": {
+        "platforms": [
+            "pc"
+        ],
+        "release_date": "Aug 8, 2006",
+        "genres": [
+            "Management"
+        ],
+        "metacritic_score": "93",
+        "user_score": "8.5"
+    },
+    "Half-Life: Alyx": {
+        "platforms": [
+            "pc"
+        ],
+        "release_date": "Mar 23, 2020",
+        "genres": [
+            "FPS"
+        ],
+        "metacritic_score": "93",
+        "user_score": "9.1"
+    },
+    "Divinity: Original Sin II": {
+        "platforms": [
+            "pc"
+        ],
+        "release_date": "Sep 14, 2017",
+        "genres": [
+            "Western RPG"
+        ],
+        "metacritic_score": "93",
+        "user_score": "8.9"
+    },
+    "Unreal Tournament 2004": {
+        "platforms": [
+            "pc"
+        ],
+        "release_date": "Mar 16, 2004",
+        "genres": [
+            "FPS"
+        ],
+        "metacritic_score": "93",
+        "user_score": "8.6"
+    },
+    "Braid": {
+        "platforms": [
+            "xbox-360",
+            "playstation-3",
+            "pc"
+        ],
+        "release_date": "Aug 6, 2008",
+        "genres": [
+            "2D Platformer"
+        ],
+        "metacritic_score": "93",
+        "user_score": "8.2"
+    },
+    "God of War II": {
+        "platforms": [
+            "playstation-2"
+        ],
+        "release_date": "Mar 13, 2007",
+        "genres": [
+            "Linear Action Adventure"
+        ],
+        "metacritic_score": "93",
+        "user_score": "9.1"
+    },
+    "Super Mario 3D World": {
+        "platforms": [
+            "wii-u"
+        ],
+        "release_date": "Nov 22, 2013",
+        "genres": [
+            "3D Platformer"
+        ],
+        "metacritic_score": "93",
+        "user_score": "8.8"
+    },
+    "Starcraft II: Wings of Liberty": {
+        "platforms": [
+            "pc"
+        ],
+        "release_date": "Jul 27, 2010",
+        "genres": [
+            "Command RTS"
+        ],
+        "metacritic_score": "93",
+        "user_score": "8.3"
+    },
+    "SSX (2000)": {
+        "platforms": [
+            "playstation-2"
+        ],
+        "release_date": "Oct 30, 2000",
+        "genres": [
+            "Skiing"
+        ],
+        "metacritic_score": "93",
+        "user_score": "8.0"
+    },
+    "Street Fighter IV": {
+        "platforms": [
+            "playstation-3",
+            "xbox-360",
+            "pc",
+            "ios-iphoneipad"
+        ],
+        "release_date": "Feb 17, 2009",
+        "genres": [
+            "2D Fighting"
+        ],
+        "metacritic_score": "93",
+        "user_score": "7.3"
+    },
+    "Minecraft": {
+        "platforms": [
+            "pc",
+            "nintendo-switch",
+            "3ds",
+            "playstation-3",
+            "playstation-4",
+            "playstation-vita",
+            "wii-u",
+            "xbox-360",
+            "xbox-one"
+        ],
+        "release_date": "Nov 18, 2011",
+        "genres": [
+            "Sandbox"
+        ],
+        "metacritic_score": "93",
+        "user_score": "8.2"
+    },
+    "Persona 4 Golden": {
+        "platforms": [
+            "playstation-vita",
+            "pc",
+            "xbox-series-x",
+            "xbox-one",
+            "playstation-4",
+            "nintendo-switch"
+        ],
+        "release_date": "Nov 20, 2012",
+        "genres": [
+            "JRPG"
+        ],
+        "metacritic_score": "93",
+        "user_score": "9.1"
+    },
+    "Persona 5": {
+        "platforms": [
+            "playstation-4"
+        ],
+        "release_date": "Apr 4, 2017",
+        "genres": [
+            "JRPG"
+        ],
+        "metacritic_score": "93",
+        "user_score": "8.9"
+    },
+    "Tom Clancy's Splinter Cell": {
+        "platforms": [
+            "pc",
+            "xbox",
+            "playstation-2",
+            "gamecube",
+            "game-boy-advance"
+        ],
+        "release_date": "Nov 17, 2002",
+        "genres": [
+            "Action Adventure"
+        ],
+        "metacritic_score": "93",
+        "user_score": "8.5"
+    },
+    "Homeworld": {
+        "platforms": [
+            "pc"
+        ],
+        "release_date": "Aug 31, 1999",
+        "genres": [
+            "Command RTS"
+        ],
+        "metacritic_score": "93",
+        "user_score": "8.7"
+    },
+    "Quake III Arena": {
+        "platforms": [
+            "dreamcast"
+        ],
+        "release_date": "Oct 22, 2000",
+        "genres": [
+            "FPS"
+        ],
+        "metacritic_score": "93",
+        "user_score": "8.4"
+    },
+    "SSX 3": {
+        "platforms": [
+            "game-boy-advance",
+            "gamecube",
+            "xbox",
+            "playstation-2"
+        ],
+        "release_date": "Oct 20, 2003",
+        "genres": [
+            "Skiing"
+        ],
+        "metacritic_score": "93",
+        "user_score": "8.6"
+    },
+    "Okami": {
+        "platforms": [
+            "playstation-2",
+            "wii"
+        ],
+        "release_date": "Sep 19, 2006",
+        "genres": [
+            "Action Adventure"
+        ],
+        "metacritic_score": "93",
+        "user_score": "9.0"
+    },
+    "Fallout 3": {
+        "platforms": [
+            "pc",
+            "xbox-360",
+            "playstation-3"
+        ],
+        "release_date": "Oct 28, 2008",
+        "genres": [
+            "Western RPG"
+        ],
+        "metacritic_score": "93",
+        "user_score": "8.3"
+    },
+    "Gears of War 2": {
+        "platforms": [
+            "xbox-360"
+        ],
+        "release_date": "Nov 7, 2008",
+        "genres": [
+            "Third Person Shooter"
+        ],
+        "metacritic_score": "93",
+        "user_score": "8.4"
+    },
+    "SoulCalibur II": {
+        "platforms": [
+            "playstation-2",
+            "gamecube",
+            "xbox"
+        ],
+        "release_date": "Aug 27, 2003",
+        "genres": [
+            "3D Fighting"
+        ],
+        "metacritic_score": "93",
+        "user_score": "8.5"
+    },
+    "Pro Evolution Soccer 2": {
+        "platforms": [
+            "playstation-2"
+        ],
+        "release_date": "Mar 11, 2003",
+        "genres": [
+            "Soccer Sim"
+        ],
+        "metacritic_score": "93",
+        "user_score": "7.5"
+    },
+    "Mass Effect 3": {
+        "platforms": [
+            "pc",
+            "xbox-360",
+            "playstation-3",
+            "wii-u"
+        ],
+        "release_date": "Mar 6, 2012",
+        "genres": [
+            "Action RPG"
+        ],
+        "metacritic_score": "93",
+        "user_score": "6.2"
+    },
+    "Metal Gear Solid V: The Phantom Pain": {
+        "platforms": [
+            "xbox-one",
+            "playstation-4",
+            "pc"
+        ],
+        "release_date": "Sep 1, 2015",
+        "genres": [
+            "Open-World Action"
+        ],
+        "metacritic_score": "93",
+        "user_score": "8.1"
+    },
+    "The Legend of Zelda: Skyward Sword": {
+        "platforms": [
+            "wii"
+        ],
+        "release_date": "Nov 20, 2011",
+        "genres": [
+            "Open-World Action"
+        ],
+        "metacritic_score": "93",
+        "user_score": "Unknown Score"
+    },
+    "Mario Kart: Super Circuit": {
+        "platforms": [
+            "game-boy-advance"
+        ],
+        "release_date": "Aug 26, 2001",
+        "genres": [
+            "Auto Racing"
+        ],
+        "metacritic_score": "93",
+        "user_score": "7.7"
+    },
+    "Rock Band 3": {
+        "platforms": [
+            "xbox-360",
+            "playstation-3",
+            "wii",
+            "ds"
+        ],
+        "release_date": "Oct 26, 2010",
+        "genres": [
+            "Rhythm"
+        ],
+        "metacritic_score": "93",
+        "user_score": "8.1"
+    },
+    "NBA 2K1": {
+        "platforms": [
+            "dreamcast"
+        ],
+        "release_date": "Nov 1, 2000",
+        "genres": [
+            "Basketball Sim"
+        ],
+        "metacritic_score": "93",
+        "user_score": "6.7"
+    },
+    "Viewtiful Joe": {
+        "platforms": [
+            "playstation-2",
+            "gamecube"
+        ],
+        "release_date": "Oct 7, 2003",
+        "genres": [
+            "2D Beat-'Em-Up"
+        ],
+        "metacritic_score": "93",
+        "user_score": "7.7"
+    },
+    "Hades": {
+        "platforms": [
+            "pc",
+            "nintendo-switch",
+            "xbox-series-x",
+            "xbox-one",
+            "playstation-5",
+            "playstation-4",
+            "ios-iphoneipad"
+        ],
+        "release_date": "Dec 6, 2018",
+        "genres": [
+            "Roguelike"
+        ],
+        "metacritic_score": "93",
+        "user_score": "8.6"
+    },
+    "Resident Evil 4": {
+        "platforms": [
+            "playstation-5",
+            "xbox-series-x",
+            "pc",
+            "playstation-4",
+            "ios-iphoneipad"
+        ],
+        "release_date": "Mar 24, 2023",
+        "genres": [
+            "Survival"
+        ],
+        "metacritic_score": "93",
+        "user_score": "8.8"
+    },
+    "Virtua Fighter 4: Evolution": {
+        "platforms": [
+            "playstation-2"
+        ],
+        "release_date": "Aug 13, 2003",
+        "genres": [
+            "3D Fighting"
+        ],
+        "metacritic_score": "93",
+        "user_score": "8.2"
+    },
+    "Uncharted 4: A Thief's End": {
+        "platforms": [
+            "playstation-4"
+        ],
+        "release_date": "May 10, 2016",
+        "genres": [
+            "Linear Action Adventure"
+        ],
+        "metacritic_score": "93",
+        "user_score": "8.8"
+    },
+    "Super Smash Bros. Ultimate": {
+        "platforms": [
+            "nintendo-switch"
+        ],
+        "release_date": "Dec 7, 2018",
+        "genres": [
+            "2D Fighting"
+        ],
+        "metacritic_score": "93",
+        "user_score": "8.7"
+    },
+    "Paper Mario": {
+        "platforms": [
+            "nintendo-64"
+        ],
+        "release_date": "Feb 5, 2001",
+        "genres": [
+            "JRPG"
+        ],
+        "metacritic_score": "93",
+        "user_score": "8.8"
+    },
+    "Wipeout XL": {
+        "platforms": [
+            "playstation"
+        ],
+        "release_date": "Sep 30, 1996",
+        "genres": [
+            "Future Racing"
+        ],
+        "metacritic_score": "93",
+        "user_score": "8.2"
+    },
+    "INSIDE": {
+        "platforms": [
+            "xbox-one",
+            "pc",
+            "playstation-4",
+            "nintendo-switch",
+            "ios-iphoneipad"
+        ],
+        "release_date": "Jun 29, 2016",
+        "genres": [
+            "2D Platformer"
+        ],
+        "metacritic_score": "93",
+        "user_score": "8.3"
+    },
+    "World of Warcraft": {
+        "platforms": [
+            "pc"
+        ],
+        "release_date": "Nov 23, 2004",
+        "genres": [
+            "MMORPG"
+        ],
+        "metacritic_score": "93",
+        "user_score": "7.5"
+    },
+    "World Soccer Winning Eleven 7 International": {
+        "platforms": [
+            "pc",
+            "playstation-2"
+        ],
+        "release_date": "Feb 17, 2004",
+        "genres": [
+            "Soccer Sim"
+        ],
+        "metacritic_score": "93",
+        "user_score": "7.4"
+    },
+    "Flipnote Studio": {
+        "platforms": [
+            "ds"
+        ],
+        "release_date": "Aug 12, 2009",
+        "genres": [
+            "Application"
+        ],
+        "metacritic_score": "93",
+        "user_score": "7.2"
+    },
+    "Forza Horizon 4": {
+        "platforms": [
+            "xbox-one",
+            "pc"
+        ],
+        "release_date": "Sep 28, 2018",
+        "genres": [
+            "Auto Racing Sim"
+        ],
+        "metacritic_score": "92",
+        "user_score": "8.4"
+    },
+    "God of War III": {
+        "platforms": [
+            "playstation-3"
+        ],
+        "release_date": "Mar 16, 2010",
+        "genres": [
+            "Linear Action Adventure"
+        ],
+        "metacritic_score": "92",
+        "user_score": "9.0"
+    },
+    "SSX Tricky": {
+        "platforms": [
+            "playstation-2",
+            "gamecube",
+            "xbox",
+            "game-boy-advance"
+        ],
+        "release_date": "Nov 5, 2001",
+        "genres": [
+            "Skiing"
+        ],
+        "metacritic_score": "92",
+        "user_score": "8.6"
+    },
+    "NFL 2K3": {
+        "platforms": [
+            "gamecube",
+            "playstation-2"
+        ],
+        "release_date": "Aug 21, 2002",
+        "genres": [
+            "Football Sim"
+        ],
+        "metacritic_score": "92",
+        "user_score": "6.1"
+    },
+    "NHL 2002": {
+        "platforms": [
+            "pc",
+            "playstation-2",
+            "xbox",
+            "game-boy-advance"
+        ],
+        "release_date": "Sep 24, 2001",
+        "genres": [
+            "Hockey Sim"
+        ],
+        "metacritic_score": "92",
+        "user_score": "7.7"
+    },
+    "Prince of Persia: The Sands of Time": {
+        "platforms": [
+            "playstation-2",
+            "game-boy-advance",
+            "pc",
+            "xbox",
+            "gamecube",
+            "playstation-3"
+        ],
+        "release_date": "Nov 10, 2003",
+        "genres": [
+            "Linear Action Adventure"
+        ],
+        "metacritic_score": "92",
+        "user_score": "8.6"
+    },
+    "Uncharted 3: Drake's Deception": {
+        "platforms": [
+            "playstation-3"
+        ],
+        "release_date": "Nov 1, 2011",
+        "genres": [
+            "Linear Action Adventure"
+        ],
+        "metacritic_score": "92",
+        "user_score": "8.4"
+    },
+    "Final Fantasy VII Rebirth": {
+        "platforms": [
+            "playstation-5"
+        ],
+        "release_date": "Feb 29, 2024",
+        "genres": [
+            "Action RPG"
+        ],
+        "metacritic_score": "92",
+        "user_score": "9.0"
+    },
+    "Rock Band": {
+        "platforms": [
+            "xbox-360",
+            "playstation-3",
+            "playstation-2",
+            "wii"
+        ],
+        "release_date": "Nov 20, 2007",
+        "genres": [
+            "Rhythm"
+        ],
+        "metacritic_score": "92",
+        "user_score": "Unknown Score"
+    },
+    "Super Mario Bros. Wonder": {
+        "platforms": [
+            "nintendo-switch"
+        ],
+        "release_date": "Oct 20, 2023",
+        "genres": [
+            "2D Platformer"
+        ],
+        "metacritic_score": "92",
+        "user_score": "9.0"
+    },
+    "Xenoblade Chronicles 3: Expansion Pass Wave 4 - Future Redeemed": {
+        "platforms": [
+            "nintendo-switch"
+        ],
+        "release_date": "Apr 25, 2023",
+        "genres": [
+            "Action RPG"
+        ],
+        "metacritic_score": "92",
+        "user_score": "8.8"
+    },
+    "Bloodborne": {
+        "platforms": [
+            "playstation-4"
+        ],
+        "release_date": "Mar 24, 2015",
+        "genres": [
+            "Action RPG"
+        ],
+        "metacritic_score": "92",
+        "user_score": "8.9"
+    },
+    "Eternal Darkness: Sanity's Requiem": {
+        "platforms": [
+            "gamecube"
+        ],
+        "release_date": "Jun 23, 2002",
+        "genres": [
+            "Survival"
+        ],
+        "metacritic_score": "92",
+        "user_score": "8.7"
+    },
+    "Warcraft III: Reign of Chaos": {
+        "platforms": [
+            "pc"
+        ],
+        "release_date": "Jul 3, 2002",
+        "genres": [
+            "Real-Time Strategy"
+        ],
+        "metacritic_score": "92",
+        "user_score": "9.2"
+    },
+    "Sid Meier's Gettysburg!": {
+        "platforms": [
+            "pc"
+        ],
+        "release_date": "Sep 30, 1997",
+        "genres": [
+            "Real-Time Strategy"
+        ],
+        "metacritic_score": "92",
+        "user_score": "6.7"
+    },
+    "Banjo-Kazooie": {
+        "platforms": [
+            "nintendo-64",
+            "xbox-360"
+        ],
+        "release_date": "Jun 29, 1998",
+        "genres": [
+            "3D Platformer"
+        ],
+        "metacritic_score": "92",
+        "user_score": "9.1"
+    },
+    "The Sims": {
+        "platforms": [
+            "playstation-2",
+            "gamecube",
+            "xbox",
+            "pc"
+        ],
+        "release_date": "Feb 4, 2000",
+        "genres": [
+            "Virtual Life"
+        ],
+        "metacritic_score": "92",
+        "user_score": "8.0"
+    },
+    "Celeste": {
+        "platforms": [
+            "playstation-4",
+            "nintendo-switch",
+            "pc",
+            "xbox-one"
+        ],
+        "release_date": "Jan 25, 2018",
+        "genres": [
+            "2D Platformer"
+        ],
+        "metacritic_score": "92",
+        "user_score": "8.7"
+    },
+    "Forza Motorsport (2005)": {
+        "platforms": [
+            "xbox"
+        ],
+        "release_date": "May 3, 2005",
+        "genres": [
+            "Auto Racing Sim"
+        ],
+        "metacritic_score": "92",
+        "user_score": "8.3"
+    },
+    "Forza Horizon 5": {
+        "platforms": [
+            "pc",
+            "xbox-series-x",
+            "xbox-one"
+        ],
+        "release_date": "Nov 5, 2021",
+        "genres": [
+            "Auto Racing Sim"
+        ],
+        "metacritic_score": "92",
+        "user_score": "8.2"
+    },
+    "Advance Wars": {
+        "platforms": [
+            "game-boy-advance"
+        ],
+        "release_date": "Sep 9, 2001",
+        "genres": [
+            "Turn-Based Tactics"
+        ],
+        "metacritic_score": "92",
+        "user_score": "8.7"
+    },
+    "Vagrant Story": {
+        "platforms": [
+            "playstation"
+        ],
+        "release_date": "May 15, 2000",
+        "genres": [
+            "Action RPG"
+        ],
+        "metacritic_score": "92",
+        "user_score": "8.8"
+    },
+    "Team Fortress 2": {
+        "platforms": [
+            "pc"
+        ],
+        "release_date": "Oct 10, 2007",
+        "genres": [
+            "Tactical FPS"
+        ],
+        "metacritic_score": "92",
+        "user_score": "8.6"
+    },
+    "System Shock 2": {
+        "platforms": [
+            "pc"
+        ],
+        "release_date": "Aug 11, 1999",
+        "genres": [
+            "Survival"
+        ],
+        "metacritic_score": "92",
+        "user_score": "9.1"
+    },
+    "Final Fantasy XII": {
+        "platforms": [
+            "playstation-2"
+        ],
+        "release_date": "Oct 31, 2006",
+        "genres": [
+            "JRPG"
+        ],
+        "metacritic_score": "92",
+        "user_score": "7.5"
+    },
+    "The Witcher 3: Wild Hunt": {
+        "platforms": [
+            "pc",
+            "xbox-one",
+            "playstation-4"
+        ],
+        "release_date": "May 19, 2015",
+        "genres": [
+            "Action RPG"
+        ],
+        "metacritic_score": "92",
+        "user_score": "9.1"
+    },
+    "Super Mario World: Super Mario Advance 2": {
+        "platforms": [
+            "game-boy-advance"
+        ],
+        "release_date": "Feb 9, 2002",
+        "genres": [
+            "2D Platformer"
+        ],
+        "metacritic_score": "92",
+        "user_score": "Unknown Score"
+    },
+    "ESPN NFL 2K5": {
+        "platforms": [
+            "xbox",
+            "playstation-2"
+        ],
+        "release_date": "Jul 20, 2004",
+        "genres": [
+            "Football Sim"
+        ],
+        "metacritic_score": "92",
+        "user_score": "6.8"
+    },
+    "Super Smash Bros. Melee": {
+        "platforms": [
+            "gamecube"
+        ],
+        "release_date": "Dec 3, 2001",
+        "genres": [
+            "2D Fighting"
+        ],
+        "metacritic_score": "92",
+        "user_score": "9.0"
+    },
+    "Virtua Tennis": {
+        "platforms": [
+            "dreamcast",
+            "pc",
+            "game-boy-advance"
+        ],
+        "release_date": "Jul 12, 2000",
+        "genres": [
+            "Tennis"
+        ],
+        "metacritic_score": "92",
+        "user_score": "8.6"
+    },
+    "Rome: Total War": {
+        "platforms": [
+            "ios-iphoneipad",
+            "pc"
+        ],
+        "release_date": "Sep 22, 2004",
+        "genres": [
+            "Real-Time Strategy"
+        ],
+        "metacritic_score": "92",
+        "user_score": "9.0"
+    },
+    "Forza Motorsport 3": {
+        "platforms": [
+            "xbox-360"
+        ],
+        "release_date": "Oct 27, 2009",
+        "genres": [
+            "Auto Racing Sim"
+        ],
+        "metacritic_score": "92",
+        "user_score": "8.2"
+    },
+    "Demon's Souls": {
+        "platforms": [
+            "playstation-5"
+        ],
+        "release_date": "Nov 11, 2020",
+        "genres": [
+            "Action RPG"
+        ],
+        "metacritic_score": "92",
+        "user_score": "8.4"
+    },
+    "Street Fighter 6": {
+        "platforms": [
+            "playstation-5",
+            "xbox-series-x",
+            "pc"
+        ],
+        "release_date": "Jun 2, 2023",
+        "genres": [
+            "2D Fighting"
+        ],
+        "metacritic_score": "92",
+        "user_score": "Unknown Score"
+    },
+    "Undertale": {
+        "platforms": [
+            "pc",
+            "playstation-4",
+            "playstation-vita",
+            "nintendo-switch",
+            "xbox-one"
+        ],
+        "release_date": "Sep 15, 2015",
+        "genres": [
+            "JRPG"
+        ],
+        "metacritic_score": "92",
+        "user_score": "8.6"
+    },
+    "Batman: Arkham Asylum": {
+        "platforms": [
+            "pc",
+            "xbox-360",
+            "playstation-3",
+            "nintendo-switch"
+        ],
+        "release_date": "Aug 25, 2009",
+        "genres": [
+            "Action Adventure"
+        ],
+        "metacritic_score": "92",
+        "user_score": "8.6"
+    },
+    "Super Mario Sunshine": {
+        "platforms": [
+            "gamecube"
+        ],
+        "release_date": "Aug 26, 2002",
+        "genres": [
+            "3D Platformer"
+        ],
+        "metacritic_score": "92",
+        "user_score": "8.3"
+    },
+    "Tony Hawk's Pro Skater": {
+        "platforms": [
+            "playstation"
+        ],
+        "release_date": "Sep 29, 1999",
+        "genres": [
+            "Skating"
+        ],
+        "metacritic_score": "92",
+        "user_score": "8.1"
+    },
+    "Thief: The Dark Project": {
+        "platforms": [
+            "pc"
+        ],
+        "release_date": "Nov 30, 1998",
+        "genres": [
+            "Action Adventure"
+        ],
+        "metacritic_score": "92",
+        "user_score": "8.8"
+    },
+    "Fire Emblem: Awakening": {
+        "platforms": [
+            "3ds"
+        ],
+        "release_date": "Feb 4, 2013",
+        "genres": [
+            "Turn-Based Tactics"
+        ],
+        "metacritic_score": "92",
+        "user_score": "9.0"
+    },
+    "Age of Empires II: The Age of Kings": {
+        "platforms": [
+            "pc"
+        ],
+        "release_date": "Sep 30, 1999",
+        "genres": [
+            "Command RTS"
+        ],
+        "metacritic_score": "92",
+        "user_score": "9.0"
+    },
+    "Final Fantasy X": {
+        "platforms": [
+            "playstation-2",
+            "playstation-vita"
+        ],
+        "release_date": "Dec 17, 2001",
+        "genres": [
+            "JRPG"
+        ],
+        "metacritic_score": "92",
+        "user_score": "8.9"
+    },
+    "Sid Meier's Alpha Centauri": {
+        "platforms": [
+            "pc"
+        ],
+        "release_date": "Feb 12, 1999",
+        "genres": [
+            "4X Strategy"
+        ],
+        "metacritic_score": "92",
+        "user_score": "8.6"
+    },
+    "Wave Race 64": {
+        "platforms": [
+            "nintendo-64"
+        ],
+        "release_date": "Nov 1, 1996",
+        "genres": [
+            "Arcade Racing"
+        ],
+        "metacritic_score": "92",
+        "user_score": "8.3"
+    },
+    "Divinity: Original Sin II - Definitive Edition": {
+        "platforms": [
+            "xbox-one",
+            "playstation-4",
+            "pc",
+            "nintendo-switch",
+            "ios-iphoneipad"
+        ],
+        "release_date": "Aug 31, 2018",
+        "genres": [
+            "Western RPG"
+        ],
+        "metacritic_score": "92",
+        "user_score": "8.2"
+    },
+    "Galactic Civilizations II: Twilight of the Arnor": {
+        "platforms": [
+            "pc"
+        ],
+        "release_date": "Apr 30, 2008",
+        "genres": [
+            "4X Strategy"
+        ],
+        "metacritic_score": "92",
+        "user_score": "8.3"
+    },
+    "Super Smash Bros. for Nintendo 3DS / Wii U": {
+        "platforms": [
+            "3ds",
+            "wii-u"
+        ],
+        "release_date": "Nov 21, 2014",
+        "genres": [
+            "2D Fighting"
+        ],
+        "metacritic_score": "92",
+        "user_score": "8.8"
+    },
+    "Guitar Hero II": {
+        "platforms": [
+            "playstation-2",
+            "xbox-360"
+        ],
+        "release_date": "Nov 7, 2006",
+        "genres": [
+            "Rhythm"
+        ],
+        "metacritic_score": "92",
+        "user_score": "8.2"
+    },
+    "Final Fantasy VII": {
+        "platforms": [
+            "playstation",
+            "ios-iphoneipad",
+            "nintendo-switch",
+            "xbox-one"
+        ],
+        "release_date": "Sep 7, 1997",
+        "genres": [
+            "JRPG"
+        ],
+        "metacritic_score": "92",
+        "user_score": "8.9"
+    },
+    "Chrono Trigger": {
+        "platforms": [
+            "ds",
+            "ios-iphoneipad",
+            "pc"
+        ],
+        "release_date": "Nov 25, 2008",
+        "genres": [
+            "JRPG"
+        ],
+        "metacritic_score": "92",
+        "user_score": "9.2"
+    },
+    "Final Fantasy XIV: Endwalker": {
+        "platforms": [
+            "pc",
+            "playstation-4",
+            "playstation-5"
+        ],
+        "release_date": "Dec 7, 2021",
+        "genres": [
+            "MMORPG"
+        ],
+        "metacritic_score": "92",
+        "user_score": "9.0"
+    },
+    "Journey": {
+        "platforms": [
+            "playstation-3",
+            "playstation-4",
+            "pc",
+            "ios-iphoneipad"
+        ],
+        "release_date": "Mar 13, 2012",
+        "genres": [
+            "3D Platformer"
+        ],
+        "metacritic_score": "92",
+        "user_score": "8.7"
+    },
+    "Medal of Honor (1999)": {
+        "platforms": [
+            "playstation"
+        ],
+        "release_date": "Oct 31, 1999",
+        "genres": [
+            "FPS"
+        ],
+        "metacritic_score": "92",
+        "user_score": "8.7"
+    },
+    "Conker's Bad Fur Day": {
+        "platforms": [
+            "nintendo-64"
+        ],
+        "release_date": "Mar 4, 2001",
+        "genres": [
+            "3D Platformer"
+        ],
+        "metacritic_score": "92",
+        "user_score": "8.8"
+    },
+    "Rock Band 2": {
+        "platforms": [
+            "playstation-3",
+            "xbox-360",
+            "wii",
+            "playstation-2"
+        ],
+        "release_date": "Sep 14, 2008",
+        "genres": [
+            "Rhythm"
+        ],
+        "metacritic_score": "92",
+        "user_score": "8.1"
+    },
+    "Mario Kart 8 Deluxe": {
+        "platforms": [
+            "nintendo-switch"
+        ],
+        "release_date": "Apr 28, 2017",
+        "genres": [
+            "Auto Racing"
+        ],
+        "metacritic_score": "92",
+        "user_score": "8.6"
+    },
+    "The ICO & Shadow of the Colossus Collection": {
+        "platforms": [
+            "playstation-3"
+        ],
+        "release_date": "Sep 27, 2011",
+        "genres": [
+            "Compilation"
+        ],
+        "metacritic_score": "92",
+        "user_score": "8.7"
+    },
+    "Metroid Prime 2: Echoes": {
+        "platforms": [
+            "gamecube"
+        ],
+        "release_date": "Nov 15, 2004",
+        "genres": [
+            "FPS"
+        ],
+        "metacritic_score": "92",
+        "user_score": "8.8"
+    },
+    "Out of the Park Baseball 17": {
+        "platforms": [
+            "pc"
+        ],
+        "release_date": "Mar 22, 2016",
+        "genres": [
+            "Baseball Sim"
+        ],
+        "metacritic_score": "92",
+        "user_score": "3.3"
+    },
+    "Metroid Fusion": {
+        "platforms": [
+            "game-boy-advance"
+        ],
+        "release_date": "Nov 17, 2002",
+        "genres": [
+            "Metroidvania"
+        ],
+        "metacritic_score": "92",
+        "user_score": "8.8"
+    },
+    "The Witcher 3: Wild Hunt - Blood and Wine": {
+        "platforms": [
+            "pc",
+            "playstation-4",
+            "xbox-one"
+        ],
+        "release_date": "May 30, 2016",
+        "genres": [
+            "Action RPG"
+        ],
+        "metacritic_score": "92",
+        "user_score": "9.3"
+    },
+    "Final Fantasy VI": {
+        "platforms": [
+            "ios-iphoneipad",
+            "pc",
+            "game-boy-advance"
+        ],
+        "release_date": "Feb 5, 2007",
+        "genres": [
+            "JRPG"
+        ],
+        "metacritic_score": "92",
+        "user_score": "8.3"
+    },
+    "Rayman Legends": {
+        "platforms": [
+            "wii-u",
+            "playstation-3",
+            "playstation-vita",
+            "pc",
+            "xbox-360",
+            "playstation-4",
+            "xbox-one"
+        ],
+        "release_date": "Sep 3, 2013",
+        "genres": [
+            "2D Platformer"
+        ],
+        "metacritic_score": "92",
+        "user_score": "8.7"
+    },
+    "Madden NFL 2005": {
+        "platforms": [
+            "xbox",
+            "pc",
+            "playstation-2",
+            "gamecube",
+            "game-boy-advance",
+            "ds"
+        ],
+        "release_date": "Aug 9, 2004",
+        "genres": [
+            "Football Sim"
+        ],
+        "metacritic_score": "91",
+        "user_score": "6.8"
+    },
+    "Against the Storm": {
+        "platforms": [
+            "pc"
+        ],
+        "release_date": "Dec 8, 2023",
+        "genres": [
+            "Management"
+        ],
+        "metacritic_score": "91",
+        "user_score": "8.0"
+    },
+    "Myth: The Fallen Lords": {
+        "platforms": [
+            "pc"
+        ],
+        "release_date": "Oct 31, 1997",
+        "genres": [
+            "Real-Time Strategy"
+        ],
+        "metacritic_score": "91",
+        "user_score": "8.4"
+    },
+    "Medal of Honor: Allied Assault": {
+        "platforms": [
+            "pc"
+        ],
+        "release_date": "Jan 20, 2002",
+        "genres": [
+            "FPS"
+        ],
+        "metacritic_score": "91",
+        "user_score": "8.5"
+    },
+    "LittleBigPlanet 2": {
+        "platforms": [
+            "playstation-3"
+        ],
+        "release_date": "Jan 18, 2011",
+        "genres": [
+            "2D Platformer"
+        ],
+        "metacritic_score": "91",
+        "user_score": "8.6"
+    },
+    "Microsoft Flight Simulator": {
+        "platforms": [
+            "xbox-series-x",
+            "pc"
+        ],
+        "release_date": "Aug 18, 2020",
+        "genres": [
+            "Aircraft Sim"
+        ],
+        "metacritic_score": "91",
+        "user_score": "7.3"
+    },
+    "Guitar Hero": {
+        "platforms": [
+            "playstation-2"
+        ],
+        "release_date": "Nov 7, 2005",
+        "genres": [
+            "Rhythm"
+        ],
+        "metacritic_score": "91",
+        "user_score": "8.1"
+    },
+    "World of Warcraft: Wrath of the Lich King": {
+        "platforms": [
+            "pc"
+        ],
+        "release_date": "Nov 13, 2008",
+        "genres": [
+            "MMORPG"
+        ],
+        "metacritic_score": "91",
+        "user_score": "8.2"
+    },
+    "Metroid Prime Trilogy": {
+        "platforms": [
+            "wii"
+        ],
+        "release_date": "Aug 24, 2009",
+        "genres": [
+            "Compilation"
+        ],
+        "metacritic_score": "91",
+        "user_score": "9.0"
+    },
+    "I Was a Teenage Exocolonist": {
+        "platforms": [
+            "pc",
+            "playstation-5",
+            "nintendo-switch"
+        ],
+        "release_date": "Aug 25, 2022",
+        "genres": [
+            "Card Battle"
+        ],
+        "metacritic_score": "91",
+        "user_score": "7.8"
+    },
+    "Baldur's Gate": {
+        "platforms": [
+            "pc"
+        ],
+        "release_date": "Dec 21, 1998",
+        "genres": [
+            "Western RPG"
+        ],
+        "metacritic_score": "91",
+        "user_score": "8.8"
+    },
+    "Madden NFL 2001": {
+        "platforms": [
+            "playstation-2",
+            "nintendo-64",
+            "playstation",
+            "pc"
+        ],
+        "release_date": "Oct 23, 2000",
+        "genres": [
+            "Football Sim"
+        ],
+        "metacritic_score": "91",
+        "user_score": "6.9"
+    },
+    "F1 Challenge '99-'02": {
+        "platforms": [
+            "pc"
+        ],
+        "release_date": "Jun 24, 2003",
+        "genres": [
+            "Auto Racing Sim"
+        ],
+        "metacritic_score": "91",
+        "user_score": "7.9"
+    },
+    "Overwatch": {
+        "platforms": [
+            "pc",
+            "playstation-4",
+            "xbox-one",
+            "nintendo-switch"
+        ],
+        "release_date": "May 23, 2016",
+        "genres": [
+            "Tactical FPS"
+        ],
+        "metacritic_score": "91",
+        "user_score": "6.5"
+    },
+    "Bayonetta 2": {
+        "platforms": [
+            "wii-u",
+            "nintendo-switch"
+        ],
+        "release_date": "Oct 24, 2014",
+        "genres": [
+            "Linear Action Adventure"
+        ],
+        "metacritic_score": "91",
+        "user_score": "9.0"
+    },
+    "Klonoa 2: Lunatea's Veil": {
+        "platforms": [
+            "playstation-2"
+        ],
+        "release_date": "Jul 25, 2001",
+        "genres": [
+            "2D Platformer"
+        ],
+        "metacritic_score": "91",
+        "user_score": "8.4"
+    },
+    "FreeSpace 2": {
+        "platforms": [
+            "pc"
+        ],
+        "release_date": "Sep 30, 1999",
+        "genres": [
+            "Space Combat Sim"
+        ],
+        "metacritic_score": "91",
+        "user_score": "8.8"
+    },
+    "Mario Tennis": {
+        "platforms": [
+            "nintendo-64"
+        ],
+        "release_date": "Aug 28, 2000",
+        "genres": [
+            "Tennis"
+        ],
+        "metacritic_score": "91",
+        "user_score": "8.3"
+    },
+    "Colony Wars": {
+        "platforms": [
+            "playstation"
+        ],
+        "release_date": "Nov 4, 1997",
+        "genres": [
+            "Space Combat Sim"
+        ],
+        "metacritic_score": "91",
+        "user_score": "7.6"
+    },
+    "IL-2 Sturmovik": {
+        "platforms": [
+            "pc"
+        ],
+        "release_date": "Nov 18, 2001",
+        "genres": [
+            "Aircraft Combat Sim"
+        ],
+        "metacritic_score": "91",
+        "user_score": "8.6"
+    },
+    "Ratchet & Clank: Up Your Arsenal": {
+        "platforms": [
+            "playstation-2"
+        ],
+        "release_date": "Nov 3, 2004",
+        "genres": [
+            "3D Platformer"
+        ],
+        "metacritic_score": "91",
+        "user_score": "9.0"
+    },
+    "Resident Evil (Remake)": {
+        "platforms": [
+            "gamecube",
+            "wii"
+        ],
+        "release_date": "Apr 30, 2002",
+        "genres": [
+            "Survival"
+        ],
+        "metacritic_score": "91",
+        "user_score": "9.5"
+    },
+    "UFO 50": {
+        "platforms": [
+            "pc"
+        ],
+        "release_date": "Sep 18, 2024",
+        "genres": [
+            "Party"
+        ],
+        "metacritic_score": "91",
+        "user_score": "7.9"
+    },
+    "Metal Gear Solid 3: Snake Eater": {
+        "platforms": [
+            "playstation-2",
+            "3ds"
+        ],
+        "release_date": "Nov 17, 2004",
+        "genres": [
+            "Action Adventure"
+        ],
+        "metacritic_score": "91",
+        "user_score": "8.4"
+    },
+    "Dragon Quest XI S: Echoes of an Elusive Age - Definitive Edition": {
+        "platforms": [
+            "nintendo-switch",
+            "xbox-one",
+            "playstation-4"
+        ],
+        "release_date": "Sep 27, 2019",
+        "genres": [
+            "JRPG"
+        ],
+        "metacritic_score": "91",
+        "user_score": "8.9"
+    },
+    "Tomb Raider (1996)": {
+        "platforms": [
+            "playstation",
+            "ios-iphoneipad"
+        ],
+        "release_date": "Nov 15, 1996",
+        "genres": [
+            "Linear Action Adventure"
+        ],
+        "metacritic_score": "91",
+        "user_score": "8.3"
+    },
+    "Spyro: Year of the Dragon": {
+        "platforms": [
+            "playstation"
+        ],
+        "release_date": "Oct 10, 2000",
+        "genres": [
+            "3D Platformer"
+        ],
+        "metacritic_score": "91",
+        "user_score": "8.8"
+    },
+    "Twisted Metal: Black": {
+        "platforms": [
+            "playstation-2"
+        ],
+        "release_date": "Jun 18, 2001",
+        "genres": [
+            "Vehicle Combat Sim"
+        ],
+        "metacritic_score": "91",
+        "user_score": "8.2"
+    },
+    "Forza Horizon 3": {
+        "platforms": [
+            "xbox-one",
+            "pc"
+        ],
+        "release_date": "Sep 23, 2016",
+        "genres": [
+            "Auto Racing Sim"
+        ],
+        "metacritic_score": "91",
+        "user_score": "8.2"
+    },
+    "The Legend of Zelda: Ocarina of Time / Master Quest": {
+        "platforms": [
+            "gamecube"
+        ],
+        "release_date": "Feb 28, 2003",
+        "genres": [
+            "Open-World Action"
+        ],
+        "metacritic_score": "91",
+        "user_score": "8.9"
+    },
+    "NCAA Football 2003": {
+        "platforms": [
+            "playstation-2",
+            "xbox",
+            "gamecube"
+        ],
+        "release_date": "Jul 20, 2002",
+        "genres": [
+            "Football Sim"
+        ],
+        "metacritic_score": "91",
+        "user_score": "6.1"
+    },
+    "Kentucky Route Zero - Act III": {
+        "platforms": [
+            "pc"
+        ],
+        "release_date": "May 6, 2014",
+        "genres": [
+            "Adventure"
+        ],
+        "metacritic_score": "91",
+        "user_score": "6.6"
+    },
+    "Crysis": {
+        "platforms": [
+            "pc",
+            "xbox-360",
+            "playstation-3"
+        ],
+        "release_date": "Nov 13, 2007",
+        "genres": [
+            "FPS"
+        ],
+        "metacritic_score": "91",
+        "user_score": "8.1"
+    },
+    "Ninja Gaiden (2004)": {
+        "platforms": [
+            "xbox"
+        ],
+        "release_date": "Mar 2, 2004",
+        "genres": [
+            "Action Adventure"
+        ],
+        "metacritic_score": "91",
+        "user_score": "8.8"
+    },
+    "God of War: Chains of Olympus": {
+        "platforms": [
+            "psp"
+        ],
+        "release_date": "Mar 4, 2008",
+        "genres": [
+            "Linear Action Adventure"
+        ],
+        "metacritic_score": "91",
+        "user_score": "8.5"
+    },
+    "DOA2: Hardcore": {
+        "platforms": [
+            "playstation-2"
+        ],
+        "release_date": "Oct 25, 2000",
+        "genres": [
+            "3D Fighting"
+        ],
+        "metacritic_score": "91",
+        "user_score": "8.0"
+    },
+    "World of Warcraft: The Burning Crusade": {
+        "platforms": [
+            "pc"
+        ],
+        "release_date": "Jan 16, 2007",
+        "genres": [
+            "MMORPG"
+        ],
+        "metacritic_score": "91",
+        "user_score": "8.2"
+    },
+    "MLB 10: The Show": {
+        "platforms": [
+            "playstation-3",
+            "psp"
+        ],
+        "release_date": "Mar 2, 2010",
+        "genres": [
+            "Baseball Sim"
+        ],
+        "metacritic_score": "91",
+        "user_score": "6.9"
+    },
+    "Shadow of the Colossus": {
+        "platforms": [
+            "playstation-2",
+            "playstation-4"
+        ],
+        "release_date": "Feb 6, 2018",
+        "genres": [
+            "Action Adventure"
+        ],
+        "metacritic_score": "91",
+        "user_score": "7.8"
+    },
+    "Yoshi's Island: Super Mario Advance 3": {
+        "platforms": [
+            "game-boy-advance"
+        ],
+        "release_date": "Sep 24, 2002",
+        "genres": [
+            "2D Platformer"
+        ],
+        "metacritic_score": "91",
+        "user_score": "9.0"
+    },
+    "Star Wars Jedi Knight: Dark Forces II": {
+        "platforms": [
+            "pc"
+        ],
+        "release_date": "Oct 9, 1997",
+        "genres": [
+            "FPS"
+        ],
+        "metacritic_score": "91",
+        "user_score": "8.6"
+    },
+    "The Longest Journey": {
+        "platforms": [
+            "pc"
+        ],
+        "release_date": "Nov 16, 2000",
+        "genres": [
+            "Point-and-Click"
+        ],
+        "metacritic_score": "91",
+        "user_score": "8.7"
+    },
+    "Tony Hawk's Pro Skater 2": {
+        "platforms": [
+            "playstation",
+            "pc",
+            "nintendo-64",
+            "dreamcast",
+            "game-boy-advance",
+            "ios-iphoneipad"
+        ],
+        "release_date": "Oct 25, 2000",
+        "genres": [
+            "Skating"
+        ],
+        "metacritic_score": "91",
+        "user_score": "Unknown Score"
+    },
+    "ESPN NFL Football": {
+        "platforms": [
+            "playstation-2",
+            "xbox"
+        ],
+        "release_date": "Sep 3, 2003",
+        "genres": [
+            "Football Sim"
+        ],
+        "metacritic_score": "91",
+        "user_score": "2.3"
+    },
+    "Halo: Reach": {
+        "platforms": [
+            "xbox-360"
+        ],
+        "release_date": "Sep 14, 2010",
+        "genres": [
+            "FPS"
+        ],
+        "metacritic_score": "91",
+        "user_score": "8.4"
+    },
+    "Galactic Civilizations II: Dark Avatar": {
+        "platforms": [
+            "pc"
+        ],
+        "release_date": "Feb 14, 2007",
+        "genres": [
+            "4X Strategy"
+        ],
+        "metacritic_score": "91",
+        "user_score": "8.2"
+    },
+    "Mass Effect": {
+        "platforms": [
+            "playstation-3",
+            "pc",
+            "xbox-360"
+        ],
+        "release_date": "Nov 20, 2007",
+        "genres": [
+            "Western RPG"
+        ],
+        "metacritic_score": "91",
+        "user_score": "8.6"
+    },
+    "The Operative: No One Lives Forever": {
+        "platforms": [
+            "playstation-2",
+            "pc"
+        ],
+        "release_date": "Nov 11, 2000",
+        "genres": [
+            "FPS"
+        ],
+        "metacritic_score": "91",
+        "user_score": "8.6"
+    },
+    "Resident Evil 3: Nemesis": {
+        "platforms": [
+            "playstation",
+            "pc",
+            "dreamcast",
+            "gamecube"
+        ],
+        "release_date": "Nov 11, 1999",
+        "genres": [
+            "Survival"
+        ],
+        "metacritic_score": "91",
+        "user_score": "9.3"
+    },
+    "Forza Motorsport 4": {
+        "platforms": [
+            "xbox-360"
+        ],
+        "release_date": "Oct 11, 2011",
+        "genres": [
+            "Auto Racing Sim"
+        ],
+        "metacritic_score": "91",
+        "user_score": "8.3"
+    },
+    "Resident Evil": {
+        "platforms": [
+            "playstation",
+            "pc"
+        ],
+        "release_date": "Mar 30, 1996",
+        "genres": [
+            "Survival"
+        ],
+        "metacritic_score": "91",
+        "user_score": "9.1"
+    },
+    "Crusader Kings III": {
+        "platforms": [
+            "pc",
+            "xbox-series-x",
+            "playstation-5"
+        ],
+        "release_date": "Sep 1, 2020",
+        "genres": [
+            "Real-Time Strategy"
+        ],
+        "metacritic_score": "91",
+        "user_score": "8.3"
+    },
+    "Battlefield 2": {
+        "platforms": [
+            "pc"
+        ],
+        "release_date": "Jun 21, 2005",
+        "genres": [
+            "Tactical FPS"
+        ],
+        "metacritic_score": "91",
+        "user_score": "8.5"
+    },
+    "God of War Collection": {
+        "platforms": [
+            "playstation-vita",
+            "playstation-3"
+        ],
+        "release_date": "Nov 17, 2009",
+        "genres": [
+            "Compilation"
+        ],
+        "metacritic_score": "91",
+        "user_score": "8.8"
+    },
+    "Planescape: Torment": {
+        "platforms": [
+            "pc",
+            "ios-iphoneipad"
+        ],
+        "release_date": "Dec 14, 1999",
+        "genres": [
+            "Western RPG"
+        ],
+        "metacritic_score": "91",
+        "user_score": "9.1"
+    },
+    "Gears of War 3": {
+        "platforms": [
+            "xbox-360"
+        ],
+        "release_date": "Sep 20, 2011",
+        "genres": [
+            "Third Person Shooter"
+        ],
+        "metacritic_score": "91",
+        "user_score": "8.1"
+    },
+    "Killzone 2": {
+        "platforms": [
+            "playstation-3"
+        ],
+        "release_date": "Feb 27, 2009",
+        "genres": [
+            "FPS"
+        ],
+        "metacritic_score": "91",
+        "user_score": "7.8"
+    },
+    "Neverwinter Nights": {
+        "platforms": [
+            "pc"
+        ],
+        "release_date": "Jun 16, 2002",
+        "genres": [
+            "Western RPG"
+        ],
+        "metacritic_score": "91",
+        "user_score": "8.2"
+    },
+    "No One Lives Forever 2: A Spy in H.A.R.M.'s Way": {
+        "platforms": [
+            "pc"
+        ],
+        "release_date": "Sep 30, 2002",
+        "genres": [
+            "Action Adventure"
+        ],
+        "metacritic_score": "91",
+        "user_score": "8.7"
+    },
+    "Castlevania: Aria of Sorrow": {
+        "platforms": [
+            "game-boy-advance"
+        ],
+        "release_date": "May 6, 2003",
+        "genres": [
+            "Metroidvania"
+        ],
+        "metacritic_score": "91",
+        "user_score": "8.8"
+    },
+    "Legacy of Kain: Soul Reaver": {
+        "platforms": [
+            "playstation"
+        ],
+        "release_date": "Aug 13, 1999",
+        "genres": [
+            "Survival"
+        ],
+        "metacritic_score": "91",
+        "user_score": "8.8"
+    },
+    "Golden Sun": {
+        "platforms": [
+            "game-boy-advance"
+        ],
+        "release_date": "Nov 11, 2001",
+        "genres": [
+            "JRPG"
+        ],
+        "metacritic_score": "91",
+        "user_score": "8.8"
+    },
+    "Animal Well": {
+        "platforms": [
+            "xbox-series-x",
+            "pc",
+            "playstation-5",
+            "nintendo-switch"
+        ],
+        "release_date": "May 9, 2024",
+        "genres": [
+            "Metroidvania"
+        ],
+        "metacritic_score": "91",
+        "user_score": "8.0"
+    },
+    "Disco Elysium": {
+        "platforms": [
+            "pc"
+        ],
+        "release_date": "Oct 15, 2019",
+        "genres": [
+            "Western RPG"
+        ],
+        "metacritic_score": "91",
+        "user_score": "8.5"
+    },
+    "World Soccer Winning Eleven 8 International": {
+        "platforms": [
+            "playstation-2",
+            "pc",
+            "xbox"
+        ],
+        "release_date": "Feb 1, 2005",
+        "genres": [
+            "Soccer Sim"
+        ],
+        "metacritic_score": "91",
+        "user_score": "7.5"
+    },
+    "The Legend of Zelda: A Link Between Worlds": {
+        "platforms": [
+            "3ds"
+        ],
+        "release_date": "Nov 22, 2013",
+        "genres": [
+            "Open-World Action"
+        ],
+        "metacritic_score": "91",
+        "user_score": "8.9"
+    },
+    "NieR: Automata - Game of the YoRHa Edition": {
+        "platforms": [
+            "playstation-4"
+        ],
+        "release_date": "Feb 26, 2019",
+        "genres": [
+            "Action RPG"
+        ],
+        "metacritic_score": "91",
+        "user_score": "8.8"
+    },
+    "Castlevania: Circle of the Moon": {
+        "platforms": [
+            "game-boy-advance"
+        ],
+        "release_date": "Jun 10, 2001",
+        "genres": [
+            "Metroidvania"
+        ],
+        "metacritic_score": "91",
+        "user_score": "8.0"
+    },
+    "Resident Evil 2": {
+        "platforms": [
+            "playstation-4",
+            "xbox-one",
+            "pc",
+            "playstation-5",
+            "nintendo-switch"
+        ],
+        "release_date": "Jan 25, 2019",
+        "genres": [
+            "Survival"
+        ],
+        "metacritic_score": "91",
+        "user_score": "8.9"
+    },
+    "Satisfactory": {
+        "platforms": [
+            "pc"
+        ],
+        "release_date": "Sep 10, 2024",
+        "genres": [
+            "Sandbox"
+        ],
+        "metacritic_score": "91",
+        "user_score": "8.9"
+    },
+    "Dark Souls II": {
+        "platforms": [
+            "playstation-3",
+            "xbox-360",
+            "pc"
+        ],
+        "release_date": "Mar 11, 2014",
+        "genres": [
+            "Action RPG"
+        ],
+        "metacritic_score": "91",
+        "user_score": "7.8"
+    },
+    "Shovel Knight: Treasure Trove": {
+        "platforms": [
+            "nintendo-switch",
+            "xbox-one"
+        ],
+        "release_date": "Mar 3, 2017",
+        "genres": [
+            "2D Platformer"
+        ],
+        "metacritic_score": "91",
+        "user_score": "8.2"
+    },
+    "Mario Kart DS": {
+        "platforms": [
+            "ds"
+        ],
+        "release_date": "Nov 14, 2005",
+        "genres": [
+            "Auto Racing"
+        ],
+        "metacritic_score": "91",
+        "user_score": "Unknown Score"
+    },
+    "Crash Bandicoot: Warped": {
+        "platforms": [
+            "playstation"
+        ],
+        "release_date": "Nov 3, 1998",
+        "genres": [
+            "3D Platformer"
+        ],
+        "metacritic_score": "91",
+        "user_score": "9.0"
+    },
+    "Mario Golf": {
+        "platforms": [
+            "nintendo-64"
+        ],
+        "release_date": "Jun 30, 1999",
+        "genres": [
+            "Golf"
+        ],
+        "metacritic_score": "91",
+        "user_score": "7.4"
+    },
+    "Call of Duty": {
+        "platforms": [
+            "pc",
+            "playstation-3",
+            "xbox-360"
+        ],
+        "release_date": "Oct 29, 2003",
+        "genres": [
+            "FPS"
+        ],
+        "metacritic_score": "91",
+        "user_score": "8.3"
+    },
+    "Assassin's Creed II": {
+        "platforms": [
+            "playstation-3",
+            "pc",
+            "xbox-360"
+        ],
+        "release_date": "Nov 17, 2009",
+        "genres": [
+            "Open-World Action"
+        ],
+        "metacritic_score": "90",
+        "user_score": "8.8"
+    },
+    "Project Gotham Racing 2": {
+        "platforms": [
+            "xbox"
+        ],
+        "release_date": "Nov 18, 2003",
+        "genres": [
+            "Auto Racing Sim"
+        ],
+        "metacritic_score": "90",
+        "user_score": "8.3"
+    },
+    "Animal Crossing: New Horizons": {
+        "platforms": [
+            "nintendo-switch"
+        ],
+        "release_date": "Mar 20, 2020",
+        "genres": [
+            "Virtual Life"
+        ],
+        "metacritic_score": "90",
+        "user_score": "5.8"
+    },
+    "The Sims 2": {
+        "platforms": [
+            "playstation-2",
+            "pc",
+            "game-boy-advance",
+            "psp",
+            "xbox",
+            "gamecube",
+            "ds"
+        ],
+        "release_date": "Sep 14, 2004",
+        "genres": [
+            "Virtual Life"
+        ],
+        "metacritic_score": "90",
+        "user_score": "8.5"
+    },
+    "Final Fantasy XIV: Shadowbringers": {
+        "platforms": [
+            "pc",
+            "playstation-4"
+        ],
+        "release_date": "Jul 2, 2019",
+        "genres": [
+            "MMORPG"
+        ],
+        "metacritic_score": "90",
+        "user_score": "Unknown Score"
+    },
+    "World of Warcraft: Cataclysm": {
+        "platforms": [
+            "pc"
+        ],
+        "release_date": "Dec 7, 2010",
+        "genres": [
+            "MMORPG"
+        ],
+        "metacritic_score": "90",
+        "user_score": "5.9"
+    },
+    "Bayonetta": {
+        "platforms": [
+            "playstation-3",
+            "xbox-360",
+            "wii-u",
+            "pc",
+            "nintendo-switch",
+            "playstation-4",
+            "xbox-one"
+        ],
+        "release_date": "Jan 5, 2010",
+        "genres": [
+            "Linear Action Adventure"
+        ],
+        "metacritic_score": "90",
+        "user_score": "8.2"
+    },
+    "Diablo III: Ultimate Evil Edition": {
+        "platforms": [
+            "playstation-4",
+            "playstation-3",
+            "xbox-one",
+            "xbox-360"
+        ],
+        "release_date": "Aug 19, 2014",
+        "genres": [
+            "Action RPG"
+        ],
+        "metacritic_score": "90",
+        "user_score": "7.8"
+    },
+    "ICO": {
+        "platforms": [
+            "playstation-2"
+        ],
+        "release_date": "Sep 24, 2001",
+        "genres": [
+            "Linear Action Adventure"
+        ],
+        "metacritic_score": "90",
+        "user_score": "8.6"
+    },
+    "Tom Clancy's Ghost Recon Advanced Warfighter": {
+        "platforms": [
+            "pc",
+            "xbox",
+            "playstation-2",
+            "xbox-360"
+        ],
+        "release_date": "Mar 9, 2006",
+        "genres": [
+            "Tactical FPS"
+        ],
+        "metacritic_score": "90",
+        "user_score": "7.5"
+    },
+    "World of Goo": {
+        "platforms": [
+            "wii",
+            "ios-iphoneipad",
+            "pc",
+            "nintendo-switch"
+        ],
+        "release_date": "Oct 12, 2008",
+        "genres": [
+            "Action Puzzle"
+        ],
+        "metacritic_score": "90",
+        "user_score": "8.2"
+    },
+    "Mario & Luigi: Superstar Saga": {
+        "platforms": [
+            "game-boy-advance"
+        ],
+        "release_date": "Nov 17, 2003",
+        "genres": [
+            "JRPG"
+        ],
+        "metacritic_score": "90",
+        "user_score": "8.5"
+    },
+    "Slay the Princess": {
+        "platforms": [
+            "pc"
+        ],
+        "release_date": "Oct 23, 2023",
+        "genres": [
+            "Visual Novel"
+        ],
+        "metacritic_score": "90",
+        "user_score": "8.2"
+    },
+    "Syphon Filter": {
+        "platforms": [
+            "playstation"
+        ],
+        "release_date": "Feb 17, 1999",
+        "genres": [
+            "Third Person Shooter"
+        ],
+        "metacritic_score": "90",
+        "user_score": "8.5"
+    },
+    "Ape Escape": {
+        "platforms": [
+            "playstation"
+        ],
+        "release_date": "Jun 23, 1999",
+        "genres": [
+            "3D Platformer"
+        ],
+        "metacritic_score": "90",
+        "user_score": "8.4"
+    },
+    "Tony Hawk's Underground": {
+        "platforms": [
+            "playstation-2",
+            "gamecube",
+            "xbox",
+            "game-boy-advance"
+        ],
+        "release_date": "Oct 27, 2003",
+        "genres": [
+            "Skating"
+        ],
+        "metacritic_score": "90",
+        "user_score": "8.7"
+    },
+    "Mario & Luigi: Bowser's Inside Story": {
+        "platforms": [
+            "ds"
+        ],
+        "release_date": "Sep 14, 2009",
+        "genres": [
+            "JRPG"
+        ],
+        "metacritic_score": "90",
+        "user_score": "8.7"
+    },
+    "Trials Evolution": {
+        "platforms": [
+            "xbox-360"
+        ],
+        "release_date": "Apr 18, 2012",
+        "genres": [
+            "Auto Racing Sim"
+        ],
+        "metacritic_score": "90",
+        "user_score": "8.0"
+    },
+    "Grand Theft Auto IV: The Lost and Damned": {
+        "platforms": [
+            "xbox-360",
+            "playstation-3",
+            "pc"
+        ],
+        "release_date": "Feb 17, 2009",
+        "genres": [
+            "Open-World Action"
+        ],
+        "metacritic_score": "90",
+        "user_score": "8.0"
+    },
+    "FIFA Soccer 12": {
+        "platforms": [
+            "ios-iphoneipad",
+            "3ds",
+            "xbox-360",
+            "psp",
+            "playstation-3",
+            "pc",
+            "wii"
+        ],
+        "release_date": "Sep 27, 2011",
+        "genres": [
+            "Soccer Sim"
+        ],
+        "metacritic_score": "90",
+        "user_score": "6.9"
+    },
+    "Balatro": {
+        "platforms": [
+            "pc",
+            "playstation-5",
+            "nintendo-switch",
+            "xbox-series-x",
+            "ios-iphoneipad"
+        ],
+        "release_date": "Feb 20, 2024",
+        "genres": [
+            "Card Battle"
+        ],
+        "metacritic_score": "90",
+        "user_score": "8.3"
+    },
+    "Factorio": {
+        "platforms": [
+            "pc",
+            "nintendo-switch"
+        ],
+        "release_date": "Aug 14, 2020",
+        "genres": [
+            "Tycoon"
+        ],
+        "metacritic_score": "90",
+        "user_score": "8.9"
+    },
+    "Black & White": {
+        "platforms": [
+            "pc"
+        ],
+        "release_date": "Mar 26, 2001",
+        "genres": [
+            "Real-Time Strategy"
+        ],
+        "metacritic_score": "90",
+        "user_score": "7.8"
+    },
+    "NBA Street Vol. 2": {
+        "platforms": [
+            "gamecube",
+            "xbox",
+            "playstation-2"
+        ],
+        "release_date": "Apr 28, 2003",
+        "genres": [
+            "Basketball"
+        ],
+        "metacritic_score": "90",
+        "user_score": "8.7"
+    },
+    "Ratchet & Clank: Going Commando": {
+        "platforms": [
+            "playstation-2"
+        ],
+        "release_date": "Nov 11, 2003",
+        "genres": [
+            "3D Platformer"
+        ],
+        "metacritic_score": "90",
+        "user_score": "8.8"
+    },
+    "FIFA Soccer 10": {
+        "platforms": [
+            "playstation-3",
+            "xbox-360",
+            "pc",
+            "ds",
+            "psp",
+            "wii",
+            "playstation-2"
+        ],
+        "release_date": "Oct 20, 2009",
+        "genres": [
+            "Soccer Sim"
+        ],
+        "metacritic_score": "90",
+        "user_score": "7.3"
+    },
+    "Marvel's Spider-Man 2": {
+        "platforms": [
+            "playstation-5"
+        ],
+        "release_date": "Oct 20, 2023",
+        "genres": [
+            "Open-World Action"
+        ],
+        "metacritic_score": "90",
+        "user_score": "8.8"
+    },
+    "The Legend of Zelda: The Wind Waker HD": {
+        "platforms": [
+            "wii-u"
+        ],
+        "release_date": "Sep 20, 2013",
+        "genres": [
+            "Open-World Action"
+        ],
+        "metacritic_score": "90",
+        "user_score": "9.0"
+    },
+    "Portal": {
+        "platforms": [
+            "pc"
+        ],
+        "release_date": "Oct 10, 2007",
+        "genres": [
+            "FPS"
+        ],
+        "metacritic_score": "90",
+        "user_score": "8.8"
+    },
+    "The Legend of Zelda: Phantom Hourglass": {
+        "platforms": [
+            "ds"
+        ],
+        "release_date": "Oct 1, 2007",
+        "genres": [
+            "Open-World Action"
+        ],
+        "metacritic_score": "90",
+        "user_score": "7.8"
+    },
+    "Jack Jeanne": {
+        "platforms": [
+            "nintendo-switch"
+        ],
+        "release_date": "Jun 15, 2023",
+        "genres": [
+            "Visual Novel"
+        ],
+        "metacritic_score": "90",
+        "user_score": "7.4"
+    },
+    "NHL 2001": {
+        "platforms": [
+            "playstation",
+            "pc",
+            "playstation-2"
+        ],
+        "release_date": "Sep 28, 2000",
+        "genres": [
+            "Hockey Sim"
+        ],
+        "metacritic_score": "90",
+        "user_score": "6.3"
+    },
+    "Dance Dance Revolution": {
+        "platforms": [
+            "playstation"
+        ],
+        "release_date": "May 9, 2001",
+        "genres": [
+            "Dancing"
+        ],
+        "metacritic_score": "90",
+        "user_score": "3.7"
+    },
+    "Advance Wars: Dual Strike": {
+        "platforms": [
+            "ds"
+        ],
+        "release_date": "Aug 22, 2005",
+        "genres": [
+            "Turn-Based Tactics"
+        ],
+        "metacritic_score": "90",
+        "user_score": "8.5"
+    },
+    "MLB 11: The Show": {
+        "platforms": [
+            "playstation-3",
+            "playstation-2",
+            "psp"
+        ],
+        "release_date": "Mar 8, 2011",
+        "genres": [
+            "Baseball Sim"
+        ],
+        "metacritic_score": "90",
+        "user_score": "7.8"
+    },
+    "NieR: Automata - Become as Gods Edition": {
+        "platforms": [
+            "xbox-one"
+        ],
+        "release_date": "Jun 26, 2018",
+        "genres": [
+            "Action RPG"
+        ],
+        "metacritic_score": "90",
+        "user_score": "8.8"
+    },
+    "Jak and Daxter: The Precursor Legacy": {
+        "platforms": [
+            "playstation-2"
+        ],
+        "release_date": "Dec 4, 2001",
+        "genres": [
+            "3D Platformer"
+        ],
+        "metacritic_score": "90",
+        "user_score": "8.7"
+    },
+    "Star Wars Rogue Leader: Rogue Squadron II": {
+        "platforms": [
+            "gamecube"
+        ],
+        "release_date": "Nov 18, 2001",
+        "genres": [
+            "Space Combat Sim"
+        ],
+        "metacritic_score": "90",
+        "user_score": "8.7"
+    },
+    "Stephen's Sausage Roll": {
+        "platforms": [
+            "pc"
+        ],
+        "release_date": "Apr 18, 2016",
+        "genres": [
+            "Action Puzzle"
+        ],
+        "metacritic_score": "90",
+        "user_score": "5.7"
+    },
+    "Donkey Kong 64": {
+        "platforms": [
+            "nintendo-64"
+        ],
+        "release_date": "Nov 24, 1999",
+        "genres": [
+            "3D Platformer"
+        ],
+        "metacritic_score": "90",
+        "user_score": "8.5"
+    },
+    "NCAA Football 2002": {
+        "platforms": [
+            "playstation-2"
+        ],
+        "release_date": "Jul 23, 2001",
+        "genres": [
+            "Football Sim"
+        ],
+        "metacritic_score": "90",
+        "user_score": "6.0"
+    },
+    "Panzer Dragoon Orta": {
+        "platforms": [
+            "xbox"
+        ],
+        "release_date": "Jan 12, 2003",
+        "genres": [
+            "Rail Shooter"
+        ],
+        "metacritic_score": "90",
+        "user_score": "8.6"
+    },
+    "Portal: Still Alive": {
+        "platforms": [
+            "xbox-360"
+        ],
+        "release_date": "Oct 22, 2008",
+        "genres": [
+            "FPS"
+        ],
+        "metacritic_score": "90",
+        "user_score": "8.8"
+    },
+    "Half-Life 2: Episode Two": {
+        "platforms": [
+            "pc"
+        ],
+        "release_date": "Oct 10, 2007",
+        "genres": [
+            "FPS"
+        ],
+        "metacritic_score": "90",
+        "user_score": "9.0"
+    },
+    "Shin Megami Tensei: Persona 4": {
+        "platforms": [
+            "playstation-2"
+        ],
+        "release_date": "Dec 9, 2008",
+        "genres": [
+            "JRPG"
+        ],
+        "metacritic_score": "90",
+        "user_score": "8.8"
+    },
+    "Hollow Knight": {
+        "platforms": [
+            "pc",
+            "nintendo-switch",
+            "xbox-one"
+        ],
+        "release_date": "Jun 12, 2018",
+        "genres": [
+            "Metroidvania"
+        ],
+        "metacritic_score": "90",
+        "user_score": "9.1"
+    },
+    "MLB 09: The Show": {
+        "platforms": [
+            "psp",
+            "playstation-3",
+            "playstation-2"
+        ],
+        "release_date": "Mar 3, 2009",
+        "genres": [
+            "Baseball Sim"
+        ],
+        "metacritic_score": "90",
+        "user_score": "7.1"
+    },
+    "Blast Corps": {
+        "platforms": [
+            "nintendo-64"
+        ],
+        "release_date": "Feb 28, 1997",
+        "genres": [
+            "Action"
+        ],
+        "metacritic_score": "90",
+        "user_score": "8.1"
+    },
+    "Ori and the Will of the Wisps": {
+        "platforms": [
+            "xbox-one",
+            "pc",
+            "xbox-series-x",
+            "nintendo-switch"
+        ],
+        "release_date": "Mar 11, 2020",
+        "genres": [
+            "Metroidvania"
+        ],
+        "metacritic_score": "90",
+        "user_score": "8.9"
+    },
+    "Sid Meier's Civilization III": {
+        "platforms": [
+            "pc"
+        ],
+        "release_date": "Oct 30, 2001",
+        "genres": [
+            "4X Strategy"
+        ],
+        "metacritic_score": "90",
+        "user_score": "8.4"
+    },
+    "WWF SmackDown! 2: Know Your Role": {
+        "platforms": [
+            "playstation"
+        ],
+        "release_date": "Nov 20, 2000",
+        "genres": [
+            "Wrestling"
+        ],
+        "metacritic_score": "90",
+        "user_score": "8.2"
+    },
+    "MVP Baseball 2004": {
+        "platforms": [
+            "playstation-2",
+            "pc",
+            "xbox",
+            "gamecube"
+        ],
+        "release_date": "Mar 9, 2004",
+        "genres": [
+            "Baseball Sim"
+        ],
+        "metacritic_score": "90",
+        "user_score": "5.8"
+    },
+    "VIDEOVERSE": {
+        "platforms": [
+            "pc"
+        ],
+        "release_date": "Aug 7, 2023",
+        "genres": [
+            "Adventure"
+        ],
+        "metacritic_score": "90",
+        "user_score": "6.7"
+    },
+    "The Last of Us Part II Remastered": {
+        "platforms": [
+            "playstation-5"
+        ],
+        "release_date": "Jan 19, 2024",
+        "genres": [
+            "Survival"
+        ],
+        "metacritic_score": "90",
+        "user_score": "7.7"
+    },
+    "LIMBO": {
+        "platforms": [
+            "xbox-360",
+            "playstation-3",
+            "pc",
+            "playstation-vita",
+            "xbox-one",
+            "playstation-4",
+            "nintendo-switch",
+            "ios-iphoneipad"
+        ],
+        "release_date": "Jul 21, 2010",
+        "genres": [
+            "2D Platformer"
+        ],
+        "metacritic_score": "90",
+        "user_score": "8.1"
+    },
+    "Silent Hunter III": {
+        "platforms": [
+            "pc"
+        ],
+        "release_date": "Mar 15, 2005",
+        "genres": [
+            "Marine Combat Sim"
+        ],
+        "metacritic_score": "90",
+        "user_score": "8.6"
+    },
+    "Mark of the Ninja": {
+        "platforms": [
+            "xbox-360",
+            "pc"
+        ],
+        "release_date": "Sep 7, 2012",
+        "genres": [
+            "2D Platformer"
+        ],
+        "metacritic_score": "90",
+        "user_score": "7.5"
+    },
+    "Thank Goodness You're Here!": {
+        "platforms": [
+            "nintendo-switch",
+            "pc",
+            "playstation-5"
+        ],
+        "release_date": "Aug 1, 2024",
+        "genres": [
+            "Adventure"
+        ],
+        "metacritic_score": "90",
+        "user_score": "7.8"
+    },
+    "Chained Echoes": {
+        "platforms": [
+            "pc",
+            "playstation-4",
+            "nintendo-switch",
+            "xbox-series-x",
+            "xbox-one"
+        ],
+        "release_date": "Dec 8, 2022",
+        "genres": [
+            "JRPG"
+        ],
+        "metacritic_score": "90",
+        "user_score": "8.8"
+    },
+    "Super Meat Boy": {
+        "platforms": [
+            "xbox-360",
+            "wii",
+            "pc",
+            "playstation-4",
+            "playstation-vita",
+            "wii-u",
+            "nintendo-switch"
+        ],
+        "release_date": "Oct 20, 2010",
+        "genres": [
+            "2D Platformer"
+        ],
+        "metacritic_score": "90",
+        "user_score": "8.0"
+    },
+    "Dead Space 2": {
+        "platforms": [
+            "xbox-360",
+            "playstation-3",
+            "pc"
+        ],
+        "release_date": "Jan 25, 2011",
+        "genres": [
+            "Third Person Shooter"
+        ],
+        "metacritic_score": "90",
+        "user_score": "8.7"
+    },
+    "Pikmin 2": {
+        "platforms": [
+            "gamecube",
+            "nintendo-switch"
+        ],
+        "release_date": "Aug 30, 2004",
+        "genres": [
+            "Real-Time Strategy"
+        ],
+        "metacritic_score": "90",
+        "user_score": "9.0"
+    },
+    "DAVE THE DIVER": {
+        "platforms": [
+            "pc",
+            "nintendo-switch",
+            "playstation-5"
+        ],
+        "release_date": "Jun 28, 2023",
+        "genres": [
+            "Action Adventure"
+        ],
+        "metacritic_score": "90",
+        "user_score": "8.3"
+    },
+    "Okami HD": {
+        "platforms": [
+            "playstation-3",
+            "xbox-one",
+            "playstation-4",
+            "pc",
+            "nintendo-switch"
+        ],
+        "release_date": "Oct 30, 2012",
+        "genres": [
+            "Action Adventure"
+        ],
+        "metacritic_score": "90",
+        "user_score": "8.9"
+    },
+    "Geometry Wars: Retro Evolved 2": {
+        "platforms": [
+            "xbox-360"
+        ],
+        "release_date": "Jul 30, 2008",
+        "genres": [
+            "Top-Down Shoot-'Em-Up"
+        ],
+        "metacritic_score": "90",
+        "user_score": "8.2"
+    },
+    "Sid Meier's Civilization V": {
+        "platforms": [
+            "pc"
+        ],
+        "release_date": "Sep 21, 2010",
+        "genres": [
+            "4X Strategy"
+        ],
+        "metacritic_score": "90",
+        "user_score": "8.1"
+    },
+    "Super Mario 3D Land": {
+        "platforms": [
+            "3ds"
+        ],
+        "release_date": "Nov 13, 2011",
+        "genres": [
+            "3D Platformer"
+        ],
+        "metacritic_score": "90",
+        "user_score": "8.3"
+    },
+    "Mario Kart 8 DLC Pack 2": {
+        "platforms": [
+            "wii-u"
+        ],
+        "release_date": "Apr 23, 2015",
+        "genres": [
+            "Auto Racing"
+        ],
+        "metacritic_score": "90",
+        "user_score": "8.2"
+    },
+    "Falcon 4.0: Allied Force": {
+        "platforms": [
+            "pc"
+        ],
+        "release_date": "Jun 28, 2005",
+        "genres": [
+            "Aircraft Combat Sim"
+        ],
+        "metacritic_score": "90",
+        "user_score": "8.0"
+    },
+    "The Stanley Parable: Ultra Deluxe": {
+        "platforms": [
+            "playstation-4",
+            "pc",
+            "xbox-one",
+            "playstation-5",
+            "xbox-series-x",
+            "nintendo-switch",
+            "ios-iphoneipad"
+        ],
+        "release_date": "Apr 27, 2022",
+        "genres": [
+            "First-Person Adventure"
+        ],
+        "metacritic_score": "90",
+        "user_score": "8.3"
+    },
+    "Metroid Prime 3: Corruption": {
+        "platforms": [
+            "wii"
+        ],
+        "release_date": "Aug 27, 2007",
+        "genres": [
+            "FPS"
+        ],
+        "metacritic_score": "90",
+        "user_score": "8.7"
+    },
+    "Flight Simulator 2002": {
+        "platforms": [
+            "pc"
+        ],
+        "release_date": "Oct 19, 2001",
+        "genres": [
+            "Aircraft Sim"
+        ],
+        "metacritic_score": "90",
+        "user_score": "7.4"
+    },
+    "Monster Hunter: World": {
+        "platforms": [
+            "playstation-4",
+            "xbox-one",
+            "pc"
+        ],
+        "release_date": "Jan 26, 2018",
+        "genres": [
+            "Action RPG"
+        ],
+        "metacritic_score": "90",
+        "user_score": "7.8"
+    },
+    "Dota 2": {
+        "platforms": [
+            "pc"
+        ],
+        "release_date": "Jul 9, 2013",
+        "genres": [
+            "MOBA"
+        ],
+        "metacritic_score": "90",
+        "user_score": "6.5"
+    },
+    "TimeSplitters 2": {
+        "platforms": [
+            "gamecube",
+            "playstation-2",
+            "xbox"
+        ],
+        "release_date": "Oct 8, 2002",
+        "genres": [
+            "FPS"
+        ],
+        "metacritic_score": "90",
+        "user_score": "8.6"
+    },
+    "Guild Wars 2": {
+        "platforms": [
+            "pc"
+        ],
+        "release_date": "Aug 28, 2012",
+        "genres": [
+            "MMORPG"
+        ],
+        "metacritic_score": "90",
+        "user_score": "8.0"
+    },
+    "Forza Motorsport 2": {
+        "platforms": [
+            "xbox-360"
+        ],
+        "release_date": "May 29, 2007",
+        "genres": [
+            "Auto Racing Sim"
+        ],
+        "metacritic_score": "90",
+        "user_score": "7.9"
+    },
+    "Pushmo": {
+        "platforms": [
+            "3ds"
+        ],
+        "release_date": "Dec 8, 2011",
+        "genres": [
+            "Action Puzzle"
+        ],
+        "metacritic_score": "90",
+        "user_score": "8.3"
+    },
+    "Freedom Force": {
+        "platforms": [
+            "pc"
+        ],
+        "release_date": "Mar 24, 2002",
+        "genres": [
+            "Action RPG"
+        ],
+        "metacritic_score": "90",
+        "user_score": "7.8"
+    },
+    "FIFA Soccer 13": {
+        "platforms": [
+            "pc",
+            "xbox-360",
+            "3ds",
+            "wii",
+            "playstation-3",
+            "psp",
+            "playstation-vita",
+            "ios-iphoneipad",
+            "wii-u"
+        ],
+        "release_date": "Sep 25, 2012",
+        "genres": [
+            "Soccer Sim"
+        ],
+        "metacritic_score": "90",
+        "user_score": "6.6"
+    },
+    "Into the Breach": {
+        "platforms": [
+            "pc",
+            "nintendo-switch",
+            "ios-iphoneipad"
+        ],
+        "release_date": "Feb 27, 2018",
+        "genres": [
+            "Turn-Based Tactics"
+        ],
+        "metacritic_score": "90",
+        "user_score": "7.8"
+    },
+    "Chicory: A Colorful Tale": {
+        "platforms": [
+            "pc",
+            "playstation-5",
+            "playstation-4",
+            "nintendo-switch",
+            "xbox-series-x"
+        ],
+        "release_date": "Jun 10, 2021",
+        "genres": [
+            "Adventure"
+        ],
+        "metacritic_score": "90",
+        "user_score": "7.5"
+    },
+    "Tekken 8": {
+        "platforms": [
+            "playstation-5",
+            "xbox-series-x",
+            "pc"
+        ],
+        "release_date": "Jan 26, 2024",
+        "genres": [
+            "3D Fighting"
+        ],
+        "metacritic_score": "90",
+        "user_score": "Unknown Score"
+    },
+    "GTR 2": {
+        "platforms": [
+            "pc"
+        ],
+        "release_date": "Sep 29, 2006",
+        "genres": [
+            "Auto Racing Sim"
+        ],
+        "metacritic_score": "90",
+        "user_score": "8.5"
+    },
+    "Sekiro: Shadows Die Twice": {
+        "platforms": [
+            "playstation-4",
+            "xbox-one",
+            "pc"
+        ],
+        "release_date": "Mar 22, 2019",
+        "genres": [
+            "Action Adventure"
+        ],
+        "metacritic_score": "90",
+        "user_score": "8.6"
+    },
+    "Total War: Shogun 2": {
+        "platforms": [
+            "pc"
+        ],
+        "release_date": "Mar 15, 2011",
+        "genres": [
+            "Turn-Based Strategy"
+        ],
+        "metacritic_score": "90",
+        "user_score": "8.3"
+    },
+    "Empire: Total War": {
+        "platforms": [
+            "pc"
+        ],
+        "release_date": "Mar 3, 2009",
+        "genres": [
+            "Real-Time Strategy"
+        ],
+        "metacritic_score": "90",
+        "user_score": "7.6"
+    },
+    "Command & Conquer: Red Alert": {
+        "platforms": [
+            "pc",
+            "ios-iphoneipad"
+        ],
+        "release_date": "Nov 22, 1996",
+        "genres": [
+            "Command RTS"
+        ],
+        "metacritic_score": "90",
+        "user_score": "8.7"
+    },
+    "Beetle Adventure Racing": {
+        "platforms": [
+            "nintendo-64"
+        ],
+        "release_date": "Feb 28, 1999",
+        "genres": [
+            "Auto Racing"
+        ],
+        "metacritic_score": "90",
+        "user_score": "7.6"
+    },
+    "Final Fantasy VIII": {
+        "platforms": [
+            "playstation"
+        ],
+        "release_date": "Sep 7, 1999",
+        "genres": [
+            "JRPG"
+        ],
+        "metacritic_score": "90",
+        "user_score": "8.6"
+    },
+    "Kentucky Route Zero - Act IV": {
+        "platforms": [
+            "pc"
+        ],
+        "release_date": "Jul 19, 2016",
+        "genres": [
+            "Adventure"
+        ],
+        "metacritic_score": "90",
+        "user_score": "6.1"
+    },
+    "Astro Bot Rescue Mission": {
+        "platforms": [
+            "playstation-4"
+        ],
+        "release_date": "Oct 2, 2018",
+        "genres": [
+            "Action Adventure"
+        ],
+        "metacritic_score": "90",
+        "user_score": "8.9"
+    },
+    "NBA 2K12": {
+        "platforms": [
+            "wii",
+            "xbox-360",
+            "pc",
+            "playstation-3",
+            "ios-iphoneipad"
+        ],
+        "release_date": "Oct 4, 2011",
+        "genres": [
+            "Basketball Sim"
+        ],
+        "metacritic_score": "90",
+        "user_score": "7.8"
+    },
+    "Bayonetta + Bayonetta 2": {
+        "platforms": [
+            "nintendo-switch"
+        ],
+        "release_date": "Feb 16, 2018",
+        "genres": [
+            "Compilation"
+        ],
+        "metacritic_score": "90",
+        "user_score": "8.7"
+    },
+    "The Witcher 3: Wild Hunt - Hearts of Stone": {
+        "platforms": [
+            "xbox-one",
+            "pc",
+            "playstation-4"
+        ],
+        "release_date": "Oct 13, 2015",
+        "genres": [
+            "Action RPG"
+        ],
+        "metacritic_score": "89",
+        "user_score": "9.2"
+    },
+    "Star Wars Jedi Knight II: Jedi Outcast": {
+        "platforms": [
+            "gamecube",
+            "pc",
+            "xbox",
+            "nintendo-switch",
+            "playstation-4"
+        ],
+        "release_date": "Mar 26, 2002",
+        "genres": [
+            "Linear Action Adventure"
+        ],
+        "metacritic_score": "89",
+        "user_score": "8.6"
+    },
+    "Wipeout HD Fury": {
+        "platforms": [
+            "playstation-3"
+        ],
+        "release_date": "Jul 23, 2009",
+        "genres": [
+            "Future Racing"
+        ],
+        "metacritic_score": "89",
+        "user_score": "8.0"
+    },
+    "Halo 2 Multiplayer Map Pack": {
+        "platforms": [
+            "xbox"
+        ],
+        "release_date": "Jul 5, 2005",
+        "genres": [
+            "FPS"
+        ],
+        "metacritic_score": "89",
+        "user_score": "9.0"
+    },
+    "Borderlands 2": {
+        "platforms": [
+            "xbox-360",
+            "playstation-3",
+            "pc",
+            "playstation-vita"
+        ],
+        "release_date": "Sep 18, 2012",
+        "genres": [
+            "FPS"
+        ],
+        "metacritic_score": "89",
+        "user_score": "8.2"
+    },
+    "Shin Megami Tensei: Persona 3 Portable": {
+        "platforms": [
+            "xbox-series-x",
+            "pc",
+            "xbox-one",
+            "playstation-4",
+            "nintendo-switch",
+            "psp"
+        ],
+        "release_date": "Jul 5, 2010",
+        "genres": [
+            "JRPG"
+        ],
+        "metacritic_score": "89",
+        "user_score": "8.8"
+    },
+    "Neon White": {
+        "platforms": [
+            "nintendo-switch",
+            "pc",
+            "playstation-5",
+            "xbox-series-x",
+            "xbox-one"
+        ],
+        "release_date": "Jun 16, 2022",
+        "genres": [
+            "FPS"
+        ],
+        "metacritic_score": "89",
+        "user_score": "8.4"
+    },
+    "Xenoblade Chronicles: Definitive Edition": {
+        "platforms": [
+            "nintendo-switch"
+        ],
+        "release_date": "May 29, 2020",
+        "genres": [
+            "Action RPG"
+        ],
+        "metacritic_score": "89",
+        "user_score": "8.9"
+    },
+    "Call of Duty 2": {
+        "platforms": [
+            "pc",
+            "xbox-360"
+        ],
+        "release_date": "Nov 17, 2005",
+        "genres": [
+            "FPS"
+        ],
+        "metacritic_score": "89",
+        "user_score": "8.2"
+    },
+    "Burnout Revenge": {
+        "platforms": [
+            "playstation-2",
+            "xbox",
+            "xbox-360"
+        ],
+        "release_date": "Sep 13, 2005",
+        "genres": [
+            "Auto Racing"
+        ],
+        "metacritic_score": "89",
+        "user_score": "8.9"
+    },
+    "Dragon Quest VIII: Journey of the Cursed King": {
+        "platforms": [
+            "playstation-2",
+            "ios-iphoneipad",
+            "3ds"
+        ],
+        "release_date": "Nov 15, 2005",
+        "genres": [
+            "JRPG"
+        ],
+        "metacritic_score": "89",
+        "user_score": "8.6"
+    },
+    "Metroid: Zero Mission": {
+        "platforms": [
+            "game-boy-advance"
+        ],
+        "release_date": "Feb 9, 2004",
+        "genres": [
+            "Metroidvania"
+        ],
+        "metacritic_score": "89",
+        "user_score": "9.0"
+    },
+    "The Legend of Zelda: Majora's Mask 3D": {
+        "platforms": [
+            "3ds"
+        ],
+        "release_date": "Feb 13, 2015",
+        "genres": [
+            "Open-World Action"
+        ],
+        "metacritic_score": "89",
+        "user_score": "8.9"
+    },
+    "Sacrifice (2000)": {
+        "platforms": [
+            "pc"
+        ],
+        "release_date": "Nov 5, 2000",
+        "genres": [
+            "Real-Time Strategy"
+        ],
+        "metacritic_score": "89",
+        "user_score": "8.6"
+    },
+    "Age of Mythology": {
+        "platforms": [
+            "pc"
+        ],
+        "release_date": "Nov 1, 2002",
+        "genres": [
+            "Real-Time Strategy"
+        ],
+        "metacritic_score": "89",
+        "user_score": "8.9"
+    },
+    "Pikmin": {
+        "platforms": [
+            "wii",
+            "gamecube",
+            "nintendo-switch"
+        ],
+        "release_date": "Dec 2, 2001",
+        "genres": [
+            "Real-Time Strategy"
+        ],
+        "metacritic_score": "89",
+        "user_score": "8.6"
+    },
+    "Wipeout 3": {
+        "platforms": [
+            "playstation"
+        ],
+        "release_date": "Sep 23, 1999",
+        "genres": [
+            "Future Racing"
+        ],
+        "metacritic_score": "89",
+        "user_score": "8.3"
+    },
+    "Tiger Woods PGA Tour 2004": {
+        "platforms": [
+            "game-boy-advance",
+            "gamecube",
+            "playstation-2",
+            "xbox",
+            "pc"
+        ],
+        "release_date": "Sep 22, 2003",
+        "genres": [
+            "Golf Sim"
+        ],
+        "metacritic_score": "89",
+        "user_score": "6.0"
+    },
+    "The Walking Dead: A Telltale Games Series": {
+        "platforms": [
+            "pc",
+            "playstation-3",
+            "xbox-360",
+            "nintendo-switch",
+            "ios-iphoneipad"
+        ],
+        "release_date": "Apr 24, 2012",
+        "genres": [
+            "Point-and-Click"
+        ],
+        "metacritic_score": "89",
+        "user_score": "8.8"
+    },
+    "Monster Hunter: World - Iceborne": {
+        "platforms": [
+            "playstation-4",
+            "pc",
+            "xbox-one"
+        ],
+        "release_date": "Sep 6, 2019",
+        "genres": [
+            "Action RPG"
+        ],
+        "metacritic_score": "89",
+        "user_score": "8.5"
+    },
+    "Dead Cells": {
+        "platforms": [
+            "pc",
+            "playstation-4",
+            "nintendo-switch",
+            "xbox-one",
+            "ios-iphoneipad"
+        ],
+        "release_date": "Aug 7, 2018",
+        "genres": [
+            "Metroidvania"
+        ],
+        "metacritic_score": "89",
+        "user_score": "8.3"
+    },
+    "Rez": {
+        "platforms": [
+            "playstation-2",
+            "xbox-360"
+        ],
+        "release_date": "Jan 30, 2008",
+        "genres": [
+            "Rail Shooter"
+        ],
+        "metacritic_score": "89",
+        "user_score": "8.4"
+    },
+    "Demon's Souls (2009)": {
+        "platforms": [
+            "playstation-3"
+        ],
+        "release_date": "Oct 6, 2009",
+        "genres": [
+            "Action RPG"
+        ],
+        "metacritic_score": "89",
+        "user_score": "8.7"
+    },
+    "Pillars of Eternity": {
+        "platforms": [
+            "pc"
+        ],
+        "release_date": "Mar 26, 2015",
+        "genres": [
+            "Western RPG"
+        ],
+        "metacritic_score": "89",
+        "user_score": "8.4"
+    },
+    "Castlevania: Symphony of the Night": {
+        "platforms": [
+            "playstation",
+            "xbox-360",
+            "ios-iphoneipad"
+        ],
+        "release_date": "Mar 21, 2007",
+        "genres": [
+            "Metroidvania"
+        ],
+        "metacritic_score": "89",
+        "user_score": "8.8"
+    },
+    "Fable II": {
+        "platforms": [
+            "xbox-360"
+        ],
+        "release_date": "Oct 21, 2008",
+        "genres": [
+            "Action RPG"
+        ],
+        "metacritic_score": "89",
+        "user_score": "7.9"
+    },
+    "Rez Infinite": {
+        "platforms": [
+            "playstation-4",
+            "pc",
+            "playstation-5"
+        ],
+        "release_date": "Oct 13, 2016",
+        "genres": [
+            "Rail Shooter"
+        ],
+        "metacritic_score": "89",
+        "user_score": "7.4"
+    },
+    "NHL 2K3": {
+        "platforms": [
+            "gamecube",
+            "playstation-2",
+            "xbox"
+        ],
+        "release_date": "Nov 10, 2002",
+        "genres": [
+            "Hockey Sim"
+        ],
+        "metacritic_score": "89",
+        "user_score": "tbd"
+    },
+    "Final Fantasy Chronicles": {
+        "platforms": [
+            "playstation"
+        ],
+        "release_date": "Jun 29, 2001",
+        "genres": [
+            "Compilation"
+        ],
+        "metacritic_score": "89",
+        "user_score": "7.2"
+    },
+    "Fallout": {
+        "platforms": [
+            "pc"
+        ],
+        "release_date": "Oct 9, 1997",
+        "genres": [
+            "Western RPG"
+        ],
+        "metacritic_score": "89",
+        "user_score": "8.7"
+    },
+    "Pizza Tower": {
+        "platforms": [
+            "pc",
+            "nintendo-switch"
+        ],
+        "release_date": "Jan 26, 2023",
+        "genres": [
+            "2D Platformer"
+        ],
+        "metacritic_score": "89",
+        "user_score": "8.9"
+    },
+    "Assassin's Creed: Brotherhood": {
+        "platforms": [
+            "playstation-3",
+            "xbox-360",
+            "pc"
+        ],
+        "release_date": "Nov 16, 2010",
+        "genres": [
+            "Open-World Action"
+        ],
+        "metacritic_score": "89",
+        "user_score": "8.3"
+    },
+    "Left 4 Dead 2": {
+        "platforms": [
+            "pc",
+            "xbox-360"
+        ],
+        "release_date": "Nov 17, 2009",
+        "genres": [
+            "Tactical FPS"
+        ],
+        "metacritic_score": "89",
+        "user_score": "8.3"
+    },
+    "Worldwide Soccer Manager 2005": {
+        "platforms": [
+            "pc"
+        ],
+        "release_date": "Dec 7, 2004",
+        "genres": [
+            "Soccer Management"
+        ],
+        "metacritic_score": "89",
+        "user_score": "6.5"
+    },
+    "Left 4 Dead": {
+        "platforms": [
+            "pc",
+            "xbox-360"
+        ],
+        "release_date": "Nov 17, 2008",
+        "genres": [
+            "FPS"
+        ],
+        "metacritic_score": "89",
+        "user_score": "8.0"
+    },
+    "Slay the Spire": {
+        "platforms": [
+            "pc",
+            "nintendo-switch",
+            "playstation-4",
+            "xbox-one",
+            "ios-iphoneipad"
+        ],
+        "release_date": "Jan 23, 2019",
+        "genres": [
+            "Card Battle"
+        ],
+        "metacritic_score": "89",
+        "user_score": "7.9"
+    },
+    "Titanfall 2": {
+        "platforms": [
+            "xbox-one",
+            "pc",
+            "playstation-4"
+        ],
+        "release_date": "Oct 28, 2016",
+        "genres": [
+            "FPS"
+        ],
+        "metacritic_score": "89",
+        "user_score": "8.5"
+    },
+    "Dark Souls III": {
+        "platforms": [
+            "xbox-one",
+            "playstation-4",
+            "pc"
+        ],
+        "release_date": "Apr 12, 2016",
+        "genres": [
+            "Action RPG"
+        ],
+        "metacritic_score": "89",
+        "user_score": "8.8"
+    },
+    "Gunstar Heroes": {
+        "platforms": [
+            "3ds",
+            "xbox-360",
+            "playstation-3",
+            "ios-iphoneipad"
+        ],
+        "release_date": "Aug 20, 2015",
+        "genres": [
+            "2D Platformer"
+        ],
+        "metacritic_score": "89",
+        "user_score": "7.8"
+    },
+    "Phantasy Star Online": {
+        "platforms": [
+            "dreamcast"
+        ],
+        "release_date": "Jan 29, 2001",
+        "genres": [
+            "RPG"
+        ],
+        "metacritic_score": "89",
+        "user_score": "8.1"
+    },
+    "NASCAR Racing 2002 Season": {
+        "platforms": [
+            "pc"
+        ],
+        "release_date": "Feb 14, 2002",
+        "genres": [
+            "Auto Racing Sim"
+        ],
+        "metacritic_score": "89",
+        "user_score": "6.4"
+    },
+    "Tekken 2": {
+        "platforms": [
+            "playstation"
+        ],
+        "release_date": "Aug 25, 1996",
+        "genres": [
+            "3D Fighting"
+        ],
+        "metacritic_score": "89",
+        "user_score": "7.9"
+    },
+    "Jade Empire": {
+        "platforms": [
+            "xbox",
+            "pc",
+            "ios-iphoneipad"
+        ],
+        "release_date": "Apr 12, 2005",
+        "genres": [
+            "Action RPG"
+        ],
+        "metacritic_score": "89",
+        "user_score": "8.3"
+    },
+    "Xenoblade Chronicles 3": {
+        "platforms": [
+            "nintendo-switch"
+        ],
+        "release_date": "Jul 29, 2022",
+        "genres": [
+            "Action RPG"
+        ],
+        "metacritic_score": "89",
+        "user_score": "8.8"
+    },
+    "F-Zero GX": {
+        "platforms": [
+            "gamecube"
+        ],
+        "release_date": "Aug 26, 2003",
+        "genres": [
+            "Future Racing"
+        ],
+        "metacritic_score": "89",
+        "user_score": "8.7"
+    },
+    "Super Mario 3D World + Bowser's Fury": {
+        "platforms": [
+            "nintendo-switch"
+        ],
+        "release_date": "Feb 12, 2021",
+        "genres": [
+            "3D Platformer"
+        ],
+        "metacritic_score": "89",
+        "user_score": "8.6"
+    },
+    "Dark Souls": {
+        "platforms": [
+            "playstation-3",
+            "xbox-360"
+        ],
+        "release_date": "Oct 4, 2011",
+        "genres": [
+            "Action RPG"
+        ],
+        "metacritic_score": "89",
+        "user_score": "8.5"
+    },
+    "NBA Street V3": {
+        "platforms": [
+            "playstation-2",
+            "xbox",
+            "gamecube"
+        ],
+        "release_date": "Feb 8, 2005",
+        "genres": [
+            "Basketball"
+        ],
+        "metacritic_score": "89",
+        "user_score": "7.1"
+    },
+    "Need for Speed: Hot Pursuit 2": {
+        "platforms": [
+            "gamecube",
+            "playstation-2",
+            "pc",
+            "xbox"
+        ],
+        "release_date": "Oct 2, 2002",
+        "genres": [
+            "Auto Racing"
+        ],
+        "metacritic_score": "89",
+        "user_score": "8.3"
+    },
+    "Grand Theft Auto IV: The Ballad of Gay Tony": {
+        "platforms": [
+            "pc",
+            "xbox-360",
+            "playstation-3"
+        ],
+        "release_date": "Oct 29, 2009",
+        "genres": [
+            "Open-World Action"
+        ],
+        "metacritic_score": "89",
+        "user_score": "8.5"
+    },
+    "Kynseed": {
+        "platforms": [
+            "pc"
+        ],
+        "release_date": "Dec 6, 2022",
+        "genres": [
+            "RPG"
+        ],
+        "metacritic_score": "89",
+        "user_score": "7.5"
+    },
+    "The Legend of Zelda: The Minish Cap": {
+        "platforms": [
+            "game-boy-advance"
+        ],
+        "release_date": "Jan 10, 2005",
+        "genres": [
+            "Open-World Action"
+        ],
+        "metacritic_score": "89",
+        "user_score": "8.8"
+    },
+    "Combat Mission: Barbarossa to Berlin": {
+        "platforms": [
+            "pc"
+        ],
+        "release_date": "Oct 29, 2002",
+        "genres": [
+            "Real-Time Strategy"
+        ],
+        "metacritic_score": "89",
+        "user_score": "Unknown Score"
+    },
+    "Homeworld: Cataclysm": {
+        "platforms": [
+            "pc"
+        ],
+        "release_date": "Sep 7, 2000",
+        "genres": [
+            "Real-Time Strategy"
+        ],
+        "metacritic_score": "89",
+        "user_score": "Unknown Score"
+    },
+    "NCAA Football 2004": {
+        "platforms": [
+            "playstation-2",
+            "xbox",
+            "gamecube"
+        ],
+        "release_date": "Jul 16, 2003",
+        "genres": [
+            "Football Sim"
+        ],
+        "metacritic_score": "89",
+        "user_score": "5.4"
+    },
+    "Cyberpunk 2077: Phantom Liberty": {
+        "platforms": [
+            "playstation-5",
+            "xbox-series-x",
+            "pc"
+        ],
+        "release_date": "Sep 26, 2023",
+        "genres": [
+            "Action RPG"
+        ],
+        "metacritic_score": "89",
+        "user_score": "8.0"
+    },
+    "Tetris Effect": {
+        "platforms": [
+            "playstation-4",
+            "pc"
+        ],
+        "release_date": "Nov 9, 2018",
+        "genres": [
+            "Stacking Puzzle"
+        ],
+        "metacritic_score": "89",
+        "user_score": "7.7"
+    },
+    "Fez": {
+        "platforms": [
+            "xbox-360",
+            "playstation-vita",
+            "pc",
+            "playstation-4",
+            "nintendo-switch",
+            "ios-iphoneipad"
+        ],
+        "release_date": "Apr 13, 2012",
+        "genres": [
+            "2D Platformer"
+        ],
+        "metacritic_score": "89",
+        "user_score": "6.4"
+    },
+    "Dead Space": {
+        "platforms": [
+            "playstation-5",
+            "xbox-series-x",
+            "pc"
+        ],
+        "release_date": "Jan 27, 2023",
+        "genres": [
+            "Survival"
+        ],
+        "metacritic_score": "89",
+        "user_score": "8.4"
+    },
+    "Cave Story": {
+        "platforms": [
+            "3ds",
+            "wii",
+            "ds"
+        ],
+        "release_date": "Mar 22, 2010",
+        "genres": [
+            "Metroidvania"
+        ],
+        "metacritic_score": "89",
+        "user_score": "8.3"
+    },
+    "Guild Wars": {
+        "platforms": [
+            "pc"
+        ],
+        "release_date": "Apr 26, 2005",
+        "genres": [
+            "Compilation"
+        ],
+        "metacritic_score": "89",
+        "user_score": "8.2"
+    },
+    "The Walking Dead: Episode 5 - No Time Left": {
+        "platforms": [
+            "xbox-360",
+            "pc",
+            "playstation-3"
+        ],
+        "release_date": "Nov 21, 2012",
+        "genres": [
+            "Point-and-Click"
+        ],
+        "metacritic_score": "89",
+        "user_score": "8.7"
+    },
+    "Atari 50: The Anniversary Celebration": {
+        "platforms": [
+            "playstation-5",
+            "xbox-series-x",
+            "pc",
+            "xbox-one",
+            "nintendo-switch"
+        ],
+        "release_date": "Nov 11, 2022",
+        "genres": [
+            "Compilation"
+        ],
+        "metacritic_score": "89",
+        "user_score": "7.8"
+    },
+    "World Soccer Winning Eleven 9": {
+        "platforms": [
+            "psp",
+            "playstation-2",
+            "xbox",
+            "pc"
+        ],
+        "release_date": "Feb 7, 2006",
+        "genres": [
+            "Soccer Sim"
+        ],
+        "metacritic_score": "89",
+        "user_score": "6.7"
+    },
+    "Ace Combat 04: Shattered Skies": {
+        "platforms": [
+            "playstation-2"
+        ],
+        "release_date": "Nov 1, 2001",
+        "genres": [
+            "Aircraft Combat Sim"
+        ],
+        "metacritic_score": "89",
+        "user_score": "8.5"
+    },
+    "Max Payne": {
+        "platforms": [
+            "playstation-2",
+            "pc",
+            "xbox",
+            "ios-iphoneipad"
+        ],
+        "release_date": "Jul 23, 2001",
+        "genres": [
+            "Third Person Shooter"
+        ],
+        "metacritic_score": "89",
+        "user_score": "9.0"
+    },
+    "Final Fantasy VII Remake Intergrade": {
+        "platforms": [
+            "playstation-5",
+            "pc"
+        ],
+        "release_date": "Jun 10, 2021",
+        "genres": [
+            "Action RPG"
+        ],
+        "metacritic_score": "89",
+        "user_score": "8.4"
+    },
+    "Football Manager Handheld": {
+        "platforms": [
+            "pc"
+        ],
+        "release_date": "Unknown Release Date",
+        "genres": [
+            "Soccer Management"
+        ],
+        "metacritic_score": "89",
+        "user_score": "tbd"
+    },
+    "Streets of Rage 2": {
+        "platforms": [
+            "3ds",
+            "xbox-360",
+            "ios-iphoneipad"
+        ],
+        "release_date": "Jul 23, 2015",
+        "genres": [
+            "2D Beat-'Em-Up"
+        ],
+        "metacritic_score": "89",
+        "user_score": "7.8"
+    },
+    "Out of the Park Baseball 15": {
+        "platforms": [
+            "pc"
+        ],
+        "release_date": "Apr 21, 2014",
+        "genres": [
+            "Baseball Sim"
+        ],
+        "metacritic_score": "89",
+        "user_score": "7.1"
+    },
+    "Hollow Knight: Voidheart Edition": {
+        "platforms": [
+            "xbox-one",
+            "playstation-4"
+        ],
+        "release_date": "Sep 25, 2018",
+        "genres": [
+            "Metroidvania"
+        ],
+        "metacritic_score": "89",
+        "user_score": "9.0"
+    },
+    "KILL KNIGHT": {
+        "platforms": [
+            "pc",
+            "playstation-5",
+            "nintendo-switch"
+        ],
+        "release_date": "Oct 2, 2024",
+        "genres": [
+            "Top-Down Shoot-'Em-Up"
+        ],
+        "metacritic_score": "89",
+        "user_score": "8.0"
+    },
+    "Fire Emblem: Three Houses": {
+        "platforms": [
+            "nintendo-switch"
+        ],
+        "release_date": "Jul 26, 2019",
+        "genres": [
+            "Turn-Based Tactics"
+        ],
+        "metacritic_score": "89",
+        "user_score": "8.9"
+    },
+    "World in Conflict": {
+        "platforms": [
+            "pc"
+        ],
+        "release_date": "Sep 18, 2007",
+        "genres": [
+            "Real-Time Strategy"
+        ],
+        "metacritic_score": "89",
+        "user_score": "8.2"
+    },
+    "NieR: Automata - The End of YoRHa Edition": {
+        "platforms": [
+            "nintendo-switch"
+        ],
+        "release_date": "Oct 6, 2022",
+        "genres": [
+            "Action RPG"
+        ],
+        "metacritic_score": "89",
+        "user_score": "8.7"
+    },
+    "Quake II - Enhanced Edition": {
+        "platforms": [
+            "xbox-series-x",
+            "playstation-5",
+            "pc",
+            "playstation-4",
+            "nintendo-switch"
+        ],
+        "release_date": "Aug 10, 2023",
+        "genres": [
+            "FPS"
+        ],
+        "metacritic_score": "89",
+        "user_score": "8.1"
+    },
+    "Castlevania: Dawn of Sorrow": {
+        "platforms": [
+            "ds"
+        ],
+        "release_date": "Oct 4, 2005",
+        "genres": [
+            "Metroidvania"
+        ],
+        "metacritic_score": "89",
+        "user_score": "8.5"
+    },
+    "Destiny 2: The Final Shape": {
+        "platforms": [
+            "pc",
+            "xbox-series-x",
+            "playstation-5"
+        ],
+        "release_date": "Jun 4, 2024",
+        "genres": [
+            "FPS"
+        ],
+        "metacritic_score": "89",
+        "user_score": "7.6"
+    },
+    "NASCAR Racing 4": {
+        "platforms": [
+            "pc"
+        ],
+        "release_date": "Feb 6, 2001",
+        "genres": [
+            "Auto Racing Sim"
+        ],
+        "metacritic_score": "89",
+        "user_score": "5.5"
+    },
+    "Tsukihime: A Piece of Blue Glass Moon": {
+        "platforms": [
+            "nintendo-switch",
+            "playstation-4"
+        ],
+        "release_date": "Jun 27, 2024",
+        "genres": [
+            "Visual Novel"
+        ],
+        "metacritic_score": "89",
+        "user_score": "8.6"
+    },
+    "Far Cry": {
+        "platforms": [
+            "pc",
+            "xbox",
+            "wii"
+        ],
+        "release_date": "Mar 23, 2004",
+        "genres": [
+            "FPS"
+        ],
+        "metacritic_score": "89",
+        "user_score": "7.8"
+    },
+    "Horizon Forbidden West: Complete Edition": {
+        "platforms": [
+            "pc"
+        ],
+        "release_date": "Mar 21, 2024",
+        "genres": [
+            "Open-World Action"
+        ],
+        "metacritic_score": "89",
+        "user_score": "7.3"
+    },
+    "Nuclear Throne": {
+        "platforms": [
+            "playstation-4",
+            "playstation-vita",
+            "pc",
+            "nintendo-switch",
+            "xbox-one"
+        ],
+        "release_date": "Dec 5, 2015",
+        "genres": [
+            "Top-Down Shoot-'Em-Up"
+        ],
+        "metacritic_score": "89",
+        "user_score": "7.7"
+    },
+    "Dead Space (2008)": {
+        "platforms": [
+            "xbox-360",
+            "playstation-3",
+            "pc"
+        ],
+        "release_date": "Oct 13, 2008",
+        "genres": [
+            "Third Person Shooter"
+        ],
+        "metacritic_score": "89",
+        "user_score": "8.7"
+    },
+    "Like a Dragon: Infinite Wealth": {
+        "platforms": [
+            "xbox-series-x",
+            "pc",
+            "playstation-5"
+        ],
+        "release_date": "Jan 26, 2024",
+        "genres": [
+            "JRPG"
+        ],
+        "metacritic_score": "89",
+        "user_score": "8.5"
+    },
+    "Cuphead in the Delicious Last Course": {
+        "platforms": [
+            "xbox-one",
+            "pc",
+            "playstation-4",
+            "nintendo-switch"
+        ],
+        "release_date": "Jun 30, 2022",
+        "genres": [
+            "2D Platformer"
+        ],
+        "metacritic_score": "89",
+        "user_score": "8.6"
+    },
+    "Lone Echo": {
+        "platforms": [
+            "pc"
+        ],
+        "release_date": "Jul 20, 2017",
+        "genres": [
+            "Action Adventure"
+        ],
+        "metacritic_score": "89",
+        "user_score": "7.9"
+    },
+    "XCOM: Enemy Unknown": {
+        "platforms": [
+            "pc",
+            "playstation-3",
+            "xbox-360",
+            "ios-iphoneipad",
+            "playstation-vita"
+        ],
+        "release_date": "Oct 8, 2012",
+        "genres": [
+            "Turn-Based Tactics"
+        ],
+        "metacritic_score": "89",
+        "user_score": "8.2"
+    },
+    "Rise of Nations": {
+        "platforms": [
+            "pc"
+        ],
+        "release_date": "May 20, 2003",
+        "genres": [
+            "Real-Time Strategy"
+        ],
+        "metacritic_score": "89",
+        "user_score": "8.7"
+    },
+    "Descent 3": {
+        "platforms": [
+            "pc"
+        ],
+        "release_date": "Jun 17, 1999",
+        "genres": [
+            "FPS"
+        ],
+        "metacritic_score": "89",
+        "user_score": "7.9"
+    },
+    "Shin Megami Tensei: Persona 3 FES": {
+        "platforms": [
+            "playstation-2"
+        ],
+        "release_date": "Apr 22, 2008",
+        "genres": [
+            "JRPG"
+        ],
+        "metacritic_score": "89",
+        "user_score": "8.9"
+    },
+    "NASCAR Racing 2003 Season": {
+        "platforms": [
+            "pc"
+        ],
+        "release_date": "Feb 14, 2003",
+        "genres": [
+            "Auto Racing Sim"
+        ],
+        "metacritic_score": "89",
+        "user_score": "8.1"
+    },
+    "World Series Baseball 2K3": {
+        "platforms": [
+            "playstation-2",
+            "xbox"
+        ],
+        "release_date": "Mar 10, 2003",
+        "genres": [
+            "Baseball Sim"
+        ],
+        "metacritic_score": "89",
+        "user_score": "2.3"
+    },
+    "The Curse of Monkey Island": {
+        "platforms": [
+            "pc"
+        ],
+        "release_date": "Oct 31, 1997",
+        "genres": [
+            "Point-and-Click"
+        ],
+        "metacritic_score": "89",
+        "user_score": "8.9"
+    },
+    "Apex Legends": {
+        "platforms": [
+            "playstation-4",
+            "xbox-one",
+            "pc",
+            "nintendo-switch"
+        ],
+        "release_date": "Feb 4, 2019",
+        "genres": [
+            "Tactical FPS"
+        ],
+        "metacritic_score": "89",
+        "user_score": "6.6"
+    },
+    "NORCO": {
+        "platforms": [
+            "pc",
+            "playstation-5",
+            "xbox-series-x"
+        ],
+        "release_date": "Mar 24, 2022",
+        "genres": [
+            "Point-and-Click"
+        ],
+        "metacritic_score": "89",
+        "user_score": "7.3"
+    },
+    "Dark Souls: Artorias of the Abyss": {
+        "platforms": [
+            "xbox-360"
+        ],
+        "release_date": "Oct 23, 2012",
+        "genres": [
+            "Action RPG"
+        ],
+        "metacritic_score": "89",
+        "user_score": "8.6"
+    },
+    "Metal Gear Solid HD Collection": {
+        "platforms": [
+            "xbox-360",
+            "playstation-3"
+        ],
+        "release_date": "Nov 8, 2011",
+        "genres": [
+            "Compilation"
+        ],
+        "metacritic_score": "89",
+        "user_score": "9.0"
+    },
+    "Battlefield 3": {
+        "platforms": [
+            "pc",
+            "playstation-3",
+            "xbox-360"
+        ],
+        "release_date": "Oct 25, 2011",
+        "genres": [
+            "Tactical FPS"
+        ],
+        "metacritic_score": "89",
+        "user_score": "7.6"
+    },
+    "Battlefield 1942": {
+        "platforms": [
+            "pc"
+        ],
+        "release_date": "Sep 10, 2002",
+        "genres": [
+            "FPS"
+        ],
+        "metacritic_score": "89",
+        "user_score": "8.4"
+    },
+    "Synth Riders": {
+        "platforms": [
+            "pc",
+            "playstation-4"
+        ],
+        "release_date": "Jul 27, 2021",
+        "genres": [
+            "Exercise"
+        ],
+        "metacritic_score": "89",
+        "user_score": "6.5"
+    },
+    "Dreams": {
+        "platforms": [
+            "playstation-4"
+        ],
+        "release_date": "Feb 14, 2020",
+        "genres": [
+            "Sandbox"
+        ],
+        "metacritic_score": "89",
+        "user_score": "8.6"
+    },
+    "Einhander": {
+        "platforms": [
+            "playstation"
+        ],
+        "release_date": "May 5, 1998",
+        "genres": [
+            "Horizontal Shoot-'Em-Up"
+        ],
+        "metacritic_score": "89",
+        "user_score": "8.5"
+    },
+    "Deus Ex: Human Revolution": {
+        "platforms": [
+            "xbox-360",
+            "playstation-3",
+            "pc"
+        ],
+        "release_date": "Aug 23, 2011",
+        "genres": [
+            "Action Adventure"
+        ],
+        "metacritic_score": "89",
+        "user_score": "8.3"
+    },
+    "The Chronicles of Riddick: Escape From Butcher Bay": {
+        "platforms": [
+            "xbox",
+            "pc"
+        ],
+        "release_date": "Jun 1, 2004",
+        "genres": [
+            "FPS"
+        ],
+        "metacritic_score": "89",
+        "user_score": "8.6"
+    },
+    "WWF No Mercy": {
+        "platforms": [
+            "nintendo-64"
+        ],
+        "release_date": "Nov 17, 2000",
+        "genres": [
+            "Wrestling"
+        ],
+        "metacritic_score": "89",
+        "user_score": "8.0"
+    },
+    "Gran Turismo 4": {
+        "platforms": [
+            "playstation-2"
+        ],
+        "release_date": "Feb 22, 2005",
+        "genres": [
+            "Auto Racing Sim"
+        ],
+        "metacritic_score": "89",
+        "user_score": "9.2"
+    },
+    "The Beatles: Rock Band": {
+        "platforms": [
+            "playstation-3",
+            "xbox-360",
+            "wii"
+        ],
+        "release_date": "Sep 9, 2009",
+        "genres": [
+            "Rhythm"
+        ],
+        "metacritic_score": "89",
+        "user_score": "8.1"
+    },
+    "Advance Wars 2: Black Hole Rising": {
+        "platforms": [
+            "game-boy-advance"
+        ],
+        "release_date": "Jun 24, 2003",
+        "genres": [
+            "Turn-Based Tactics"
+        ],
+        "metacritic_score": "89",
+        "user_score": "8.2"
+    },
+    "Return of the Obra Dinn": {
+        "platforms": [
+            "pc",
+            "nintendo-switch",
+            "xbox-one",
+            "playstation-4"
+        ],
+        "release_date": "Oct 18, 2018",
+        "genres": [
+            "First-Person Adventure"
+        ],
+        "metacritic_score": "89",
+        "user_score": "8.7"
+    },
+    "Lumines": {
+        "platforms": [
+            "psp"
+        ],
+        "release_date": "Mar 22, 2005",
+        "genres": [
+            "Matching Puzzle"
+        ],
+        "metacritic_score": "89",
+        "user_score": "7.5"
+    },
+    "L.A. Noire": {
+        "platforms": [
+            "playstation-3",
+            "xbox-360",
+            "playstation-4",
+            "xbox-one",
+            "nintendo-switch"
+        ],
+        "release_date": "May 17, 2011",
+        "genres": [
+            "Open-World Action"
+        ],
+        "metacritic_score": "89",
+        "user_score": "8.0"
+    },
+    "Ratchet & Clank Future: Tools of Destruction": {
+        "platforms": [
+            "playstation-3"
+        ],
+        "release_date": "Oct 23, 2007",
+        "genres": [
+            "3D Platformer"
+        ],
+        "metacritic_score": "89",
+        "user_score": "8.6"
+    },
+    "Peggle": {
+        "platforms": [
+            "xbox-360",
+            "playstation-3",
+            "pc"
+        ],
+        "release_date": "Mar 11, 2009",
+        "genres": [
+            "Action Puzzle"
+        ],
+        "metacritic_score": "89",
+        "user_score": "7.8"
+    },
+    "Tony Hawk's Pro Skater 1 + 2": {
+        "platforms": [
+            "xbox-one",
+            "pc",
+            "playstation-4",
+            "nintendo-switch",
+            "playstation-5",
+            "xbox-series-x"
+        ],
+        "release_date": "Sep 4, 2020",
+        "genres": [
+            "Skating"
+        ],
+        "metacritic_score": "89",
+        "user_score": "8.6"
+    },
+    "Alan Wake II": {
+        "platforms": [
+            "playstation-5",
+            "pc",
+            "xbox-series-x"
+        ],
+        "release_date": "Oct 27, 2023",
+        "genres": [
+            "Survival"
+        ],
+        "metacritic_score": "89",
+        "user_score": "8.5"
+    },
+    "New Super Mario Bros.": {
+        "platforms": [
+            "ds"
+        ],
+        "release_date": "May 15, 2006",
+        "genres": [
+            "2D Platformer"
+        ],
+        "metacritic_score": "89",
+        "user_score": "8.5"
+    },
+    "Silent Hill 2 (2001)": {
+        "platforms": [
+            "playstation-2"
+        ],
+        "release_date": "Sep 25, 2001",
+        "genres": [
+            "Survival"
+        ],
+        "metacritic_score": "89",
+        "user_score": "8.8"
+    },
+    "Castlevania Dominus Collection": {
+        "platforms": [
+            "nintendo-switch",
+            "playstation-5",
+            "xbox-series-x",
+            "pc"
+        ],
+        "release_date": "Aug 27, 2024",
+        "genres": [
+            "Compilation"
+        ],
+        "metacritic_score": "89",
+        "user_score": "7.3"
+    },
+    "Metal Gear Solid: Peace Walker": {
+        "platforms": [
+            "psp"
+        ],
+        "release_date": "Jun 8, 2010",
+        "genres": [
+            "Action Adventure"
+        ],
+        "metacritic_score": "89",
+        "user_score": "8.5"
+    },
+    "WarioWare, Inc.: Mega Microgame$!": {
+        "platforms": [
+            "game-boy-advance"
+        ],
+        "release_date": "May 26, 2003",
+        "genres": [
+            "Party"
+        ],
+        "metacritic_score": "89",
+        "user_score": "8.5"
+    },
+    "NBA 2K2": {
+        "platforms": [
+            "dreamcast",
+            "playstation-2",
+            "xbox",
+            "gamecube"
+        ],
+        "release_date": "Jan 12, 2002",
+        "genres": [
+            "Basketball Sim"
+        ],
+        "metacritic_score": "89",
+        "user_score": "8.0"
+    },
+    "Grandia": {
+        "platforms": [
+            "playstation"
+        ],
+        "release_date": "Sep 30, 1999",
+        "genres": [
+            "JRPG"
+        ],
+        "metacritic_score": "89",
+        "user_score": "7.7"
+    },
+    "Colors! 3D": {
+        "platforms": [
+            "3ds"
+        ],
+        "release_date": "Apr 5, 2012",
+        "genres": [
+            "Application"
+        ],
+        "metacritic_score": "89",
+        "user_score": "7.5"
+    },
+    "NBA 2K11": {
+        "platforms": [
+            "wii",
+            "pc",
+            "psp",
+            "playstation-3",
+            "xbox-360"
+        ],
+        "release_date": "Oct 5, 2010",
+        "genres": [
+            "Basketball Sim"
+        ],
+        "metacritic_score": "89",
+        "user_score": "8.3"
+    },
+    "Disco Elysium: The Final Cut": {
+        "platforms": [
+            "pc",
+            "playstation-4",
+            "playstation-5",
+            "xbox-series-x",
+            "nintendo-switch",
+            "xbox-one"
+        ],
+        "release_date": "Mar 30, 2021",
+        "genres": [
+            "Western RPG"
+        ],
+        "metacritic_score": "89",
+        "user_score": "8.3"
+    },
+    "Horizon Zero Dawn": {
+        "platforms": [
+            "playstation-4"
+        ],
+        "release_date": "Feb 28, 2017",
+        "genres": [
+            "Open-World Action"
+        ],
+        "metacritic_score": "89",
+        "user_score": "8.3"
+    },
+    "Stardew Valley": {
+        "platforms": [
+            "pc",
+            "playstation-4",
+            "xbox-one",
+            "nintendo-switch",
+            "playstation-vita",
+            "ios-iphoneipad"
+        ],
+        "release_date": "Feb 26, 2016",
+        "genres": [
+            "RPG"
+        ],
+        "metacritic_score": "89",
+        "user_score": "8.8"
+    },
+    "Devil May Cry 5: Special Edition": {
+        "platforms": [
+            "playstation-5",
+            "xbox-series-x"
+        ],
+        "release_date": "Nov 12, 2020",
+        "genres": [
+            "Action Adventure"
+        ],
+        "metacritic_score": "89",
+        "user_score": "8.4"
+    },
+    "The Last of Us Part I": {
+        "platforms": [
+            "playstation-5",
+            "pc"
+        ],
+        "release_date": "Sep 2, 2022",
+        "genres": [
+            "Linear Action Adventure"
+        ],
+        "metacritic_score": "89",
+        "user_score": "7.5"
+    },
+    "Railroad Tycoon II": {
+        "platforms": [
+            "pc"
+        ],
+        "release_date": "Nov 2, 1998",
+        "genres": [
+            "Tycoon"
+        ],
+        "metacritic_score": "89",
+        "user_score": "8.5"
+    },
+    "NBA Street": {
+        "platforms": [
+            "playstation-2",
+            "gamecube"
+        ],
+        "release_date": "Jun 18, 2001",
+        "genres": [
+            "Basketball"
+        ],
+        "metacritic_score": "89",
+        "user_score": "7.9"
+    },
+    "ESPN NBA Basketball": {
+        "platforms": [
+            "playstation-2",
+            "xbox"
+        ],
+        "release_date": "Oct 21, 2003",
+        "genres": [
+            "Basketball Sim"
+        ],
+        "metacritic_score": "89",
+        "user_score": "6.1"
+    },
+    "Soul Edge": {
+        "platforms": [
+            "playstation"
+        ],
+        "release_date": "Unknown Release Date",
+        "genres": [
+            "3D Fighting"
+        ],
+        "metacritic_score": "89",
+        "user_score": "tbd"
+    },
+    "Top Spin": {
+        "platforms": [
+            "xbox",
+            "playstation-2"
+        ],
+        "release_date": "Oct 28, 2003",
+        "genres": [
+            "Tennis"
+        ],
+        "metacritic_score": "89",
+        "user_score": "7.4"
+    },
+    "Burnout Paradise": {
+        "platforms": [
+            "xbox-360",
+            "playstation-3",
+            "pc"
+        ],
+        "release_date": "Jan 22, 2008",
+        "genres": [
+            "Auto Racing"
+        ],
+        "metacritic_score": "88",
+        "user_score": "7.6"
+    },
+    "Asgard's Wrath": {
+        "platforms": [
+            "pc"
+        ],
+        "release_date": "Oct 10, 2019",
+        "genres": [
+            "Action RPG"
+        ],
+        "metacritic_score": "88",
+        "user_score": "7.9"
+    },
+    "Wipeout Pure": {
+        "platforms": [
+            "psp"
+        ],
+        "release_date": "Mar 16, 2005",
+        "genres": [
+            "Future Racing"
+        ],
+        "metacritic_score": "88",
+        "user_score": "8.3"
+    },
+    "A Short Hike": {
+        "platforms": [
+            "pc",
+            "nintendo-switch",
+            "playstation-4",
+            "xbox-one"
+        ],
+        "release_date": "Aug 18, 2020",
+        "genres": [
+            "Adventure"
+        ],
+        "metacritic_score": "88",
+        "user_score": "8.5"
+    },
+    "XCOM 2: War of the Chosen": {
+        "platforms": [
+            "playstation-4",
+            "pc",
+            "xbox-one"
+        ],
+        "release_date": "Aug 29, 2017",
+        "genres": [
+            "Turn-Based Tactics"
+        ],
+        "metacritic_score": "88",
+        "user_score": "8.1"
+    },
+    "DUSK": {
+        "platforms": [
+            "pc",
+            "nintendo-switch",
+            "playstation-4"
+        ],
+        "release_date": "Dec 10, 2018",
+        "genres": [
+            "FPS"
+        ],
+        "metacritic_score": "88",
+        "user_score": "8.3"
+    },
+    "Medieval: Total War": {
+        "platforms": [
+            "pc"
+        ],
+        "release_date": "Aug 19, 2002",
+        "genres": [
+            "Real-Time Strategy"
+        ],
+        "metacritic_score": "88",
+        "user_score": "8.6"
+    },
+    "Excitebike 64": {
+        "platforms": [
+            "nintendo-64"
+        ],
+        "release_date": "Apr 30, 2000",
+        "genres": [
+            "Arcade Racing"
+        ],
+        "metacritic_score": "88",
+        "user_score": "8.4"
+    },
+    "R4: Ridge Racer Type 4": {
+        "platforms": [
+            "playstation"
+        ],
+        "release_date": "May 1, 1999",
+        "genres": [
+            "Auto Racing"
+        ],
+        "metacritic_score": "88",
+        "user_score": "8.6"
+    },
+    "Shenmue": {
+        "platforms": [
+            "dreamcast"
+        ],
+        "release_date": "Nov 7, 2000",
+        "genres": [
+            "Open-World Action"
+        ],
+        "metacritic_score": "88",
+        "user_score": "9.0"
+    },
+    "Microsoft Flight Simulator 2004: A Century of Flight": {
+        "platforms": [
+            "pc"
+        ],
+        "release_date": "Jul 29, 2003",
+        "genres": [
+            "Aircraft Sim"
+        ],
+        "metacritic_score": "88",
+        "user_score": "7.8"
+    },
+    "Tiger Woods PGA Tour 2005": {
+        "platforms": [
+            "ds",
+            "psp",
+            "xbox",
+            "playstation-2",
+            "gamecube",
+            "pc"
+        ],
+        "release_date": "Sep 20, 2004",
+        "genres": [
+            "Golf Sim"
+        ],
+        "metacritic_score": "88",
+        "user_score": "6.6"
+    },
+    "Shadow Complex": {
+        "platforms": [
+            "xbox-360"
+        ],
+        "release_date": "Aug 19, 2009",
+        "genres": [
+            "Metroidvania"
+        ],
+        "metacritic_score": "88",
+        "user_score": "8.4"
+    },
+    "Call of Duty: Modern Warfare 3": {
+        "platforms": [
+            "xbox-360",
+            "playstation-3",
+            "pc",
+            "wii"
+        ],
+        "release_date": "Nov 8, 2011",
+        "genres": [
+            "FPS"
+        ],
+        "metacritic_score": "88",
+        "user_score": "3.7"
+    },
+    "What Remains of Edith Finch": {
+        "platforms": [
+            "playstation-4",
+            "pc",
+            "xbox-one",
+            "nintendo-switch",
+            "ios-iphoneipad"
+        ],
+        "release_date": "Apr 25, 2017",
+        "genres": [
+            "First-Person Adventure"
+        ],
+        "metacritic_score": "88",
+        "user_score": "8.4"
+    },
+    "Brothers in Arms: Road to Hill 30": {
+        "platforms": [
+            "pc",
+            "xbox",
+            "playstation-2"
+        ],
+        "release_date": "Mar 1, 2005",
+        "genres": [
+            "Tactical FPS"
+        ],
+        "metacritic_score": "88",
+        "user_score": "8.2"
+    },
+    "Deus Ex: Human Revolution - Director's Cut": {
+        "platforms": [
+            "wii-u",
+            "xbox-360",
+            "playstation-3",
+            "pc"
+        ],
+        "release_date": "Oct 22, 2013",
+        "genres": [
+            "Action Adventure"
+        ],
+        "metacritic_score": "88",
+        "user_score": "8.5"
+    },
+    "Tetris Effect: Connected": {
+        "platforms": [
+            "xbox-one",
+            "xbox-series-x",
+            "pc",
+            "nintendo-switch",
+            "playstation-5"
+        ],
+        "release_date": "Nov 10, 2020",
+        "genres": [
+            "Stacking Puzzle"
+        ],
+        "metacritic_score": "88",
+        "user_score": "7.5"
+    },
+    "Dishonored": {
+        "platforms": [
+            "playstation-3",
+            "xbox-360",
+            "pc"
+        ],
+        "release_date": "Oct 9, 2012",
+        "genres": [
+            "Action Adventure"
+        ],
+        "metacritic_score": "88",
+        "user_score": "8.1"
+    },
+    "CTR: Crash Team Racing": {
+        "platforms": [
+            "playstation"
+        ],
+        "release_date": "Oct 19, 1999",
+        "genres": [
+            "Auto Racing"
+        ],
+        "metacritic_score": "88",
+        "user_score": "8.8"
+    },
+    "Crusader Kings II: The Old Gods": {
+        "platforms": [
+            "pc"
+        ],
+        "release_date": "May 28, 2013",
+        "genres": [
+            "Real-Time Strategy"
+        ],
+        "metacritic_score": "88",
+        "user_score": "8.6"
+    },
+    "Cocoon": {
+        "platforms": [
+            "xbox-series-x",
+            "pc",
+            "nintendo-switch",
+            "playstation-5",
+            "playstation-4"
+        ],
+        "release_date": "Sep 29, 2023",
+        "genres": [
+            "Action Adventure"
+        ],
+        "metacritic_score": "88",
+        "user_score": "8.0"
+    },
+    "Lorelei and the Laser Eyes": {
+        "platforms": [
+            "nintendo-switch",
+            "pc"
+        ],
+        "release_date": "May 16, 2024",
+        "genres": [
+            "Adventure"
+        ],
+        "metacritic_score": "88",
+        "user_score": "7.9"
+    },
+    "Pinball FX 2: Marvel Pinball - Avengers Chronicles": {
+        "platforms": [],
+        "release_date": "May 10, 2013",
+        "genres": [
+            "Pinball"
+        ],
+        "metacritic_score": "tbd",
+        "user_score": "tbd"
+    },
+    "Medal of Honor: Frontline": {
+        "platforms": [
+            "playstation-2",
+            "xbox",
+            "gamecube"
+        ],
+        "release_date": "May 29, 2002",
+        "genres": [
+            "FPS"
+        ],
+        "metacritic_score": "88",
+        "user_score": "8.3"
+    },
+    "Superbike 2001": {
+        "platforms": [
+            "pc"
+        ],
+        "release_date": "Oct 9, 2000",
+        "genres": [
+            "Auto Racing Sim"
+        ],
+        "metacritic_score": "88",
+        "user_score": "7.4"
+    },
+    "Ultimate Fighting Championship": {
+        "platforms": [
+            "dreamcast",
+            "playstation"
+        ],
+        "release_date": "Aug 29, 2000",
+        "genres": [
+            "Combat Sport"
+        ],
+        "metacritic_score": "88",
+        "user_score": "6.9"
+    },
+    "Mario Kart 8": {
+        "platforms": [
+            "wii-u"
+        ],
+        "release_date": "May 30, 2014",
+        "genres": [
+            "Auto Racing"
+        ],
+        "metacritic_score": "88",
+        "user_score": "8.9"
+    },
+    "Super Mario Maker": {
+        "platforms": [
+            "wii-u",
+            "3ds"
+        ],
+        "release_date": "Sep 11, 2015",
+        "genres": [
+            "2D Platformer"
+        ],
+        "metacritic_score": "88",
+        "user_score": "8.6"
+    },
+    "Tekken 5": {
+        "platforms": [
+            "playstation-2"
+        ],
+        "release_date": "Feb 24, 2005",
+        "genres": [
+            "3D Fighting"
+        ],
+        "metacritic_score": "88",
+        "user_score": "8.7"
+    },
+    "F.E.A.R.": {
+        "platforms": [
+            "playstation-3",
+            "pc",
+            "xbox-360"
+        ],
+        "release_date": "Oct 17, 2005",
+        "genres": [
+            "FPS"
+        ],
+        "metacritic_score": "88",
+        "user_score": "8.5"
+    },
+    "Psychonauts": {
+        "platforms": [
+            "xbox",
+            "pc",
+            "playstation-2",
+            "playstation-4"
+        ],
+        "release_date": "Apr 20, 2005",
+        "genres": [
+            "3D Platformer"
+        ],
+        "metacritic_score": "88",
+        "user_score": "8.1"
+    },
+    "The Binding of Isaac: Rebirth": {
+        "platforms": [
+            "pc",
+            "playstation-4",
+            "3ds",
+            "xbox-one",
+            "wii-u",
+            "ios-iphoneipad"
+        ],
+        "release_date": "Nov 4, 2014",
+        "genres": [
+            "Top-Down Shoot-'Em-Up"
+        ],
+        "metacritic_score": "88",
+        "user_score": "8.0"
+    },
+    "Tactical Breach Wizards": {
+        "platforms": [
+            "pc"
+        ],
+        "release_date": "Aug 22, 2024",
+        "genres": [
+            "Turn-Based Tactics"
+        ],
+        "metacritic_score": "88",
+        "user_score": "8.0"
+    },
+    "NHL 10": {
+        "platforms": [
+            "xbox-360",
+            "playstation-3"
+        ],
+        "release_date": "Sep 15, 2009",
+        "genres": [
+            "Hockey Sim"
+        ],
+        "metacritic_score": "88",
+        "user_score": "8.2"
+    },
+    "BioShock 2": {
+        "platforms": [
+            "playstation-3",
+            "pc",
+            "xbox-360"
+        ],
+        "release_date": "Feb 9, 2010",
+        "genres": [
+            "FPS"
+        ],
+        "metacritic_score": "88",
+        "user_score": "8.1"
+    },
+    "Kerbal Space Program": {
+        "platforms": [
+            "pc",
+            "playstation-4",
+            "xbox-one"
+        ],
+        "release_date": "Jun 24, 2011",
+        "genres": [
+            "Space Sim"
+        ],
+        "metacritic_score": "88",
+        "user_score": "8.2"
+    },
+    "Star Fox 64": {
+        "platforms": [
+            "nintendo-64"
+        ],
+        "release_date": "Jul 1, 1997",
+        "genres": [
+            "Rail Shooter"
+        ],
+        "metacritic_score": "88",
+        "user_score": "8.7"
+    },
+    "Age of Empires II: The Conquerors Expansion": {
+        "platforms": [
+            "pc"
+        ],
+        "release_date": "Unknown Release Date",
+        "genres": [
+            "Command RTS"
+        ],
+        "metacritic_score": "88",
+        "user_score": "9.1"
+    },
+    "Diddy Kong Racing": {
+        "platforms": [
+            "nintendo-64"
+        ],
+        "release_date": "Nov 24, 1997",
+        "genres": [
+            "Arcade Racing"
+        ],
+        "metacritic_score": "88",
+        "user_score": "8.4"
+    },
+    "Tribes 2": {
+        "platforms": [
+            "pc"
+        ],
+        "release_date": "Mar 28, 2001",
+        "genres": [
+            "FPS"
+        ],
+        "metacritic_score": "88",
+        "user_score": "8.4"
+    },
+    "NHL 09": {
+        "platforms": [
+            "xbox-360",
+            "playstation-3",
+            "pc"
+        ],
+        "release_date": "Sep 9, 2008",
+        "genres": [
+            "Hockey Sim"
+        ],
+        "metacritic_score": "88",
+        "user_score": "7.3"
+    },
+    "Ori and the Blind Forest: Definitive Edition": {
+        "platforms": [
+            "xbox-one",
+            "pc",
+            "nintendo-switch"
+        ],
+        "release_date": "Mar 11, 2016",
+        "genres": [
+            "Metroidvania"
+        ],
+        "metacritic_score": "88",
+        "user_score": "8.3"
+    },
+    "Streets of Rage 4: Mr. X Nightmare": {
+        "platforms": [
+            "nintendo-switch",
+            "pc",
+            "playstation-4",
+            "xbox-one"
+        ],
+        "release_date": "Jul 15, 2021",
+        "genres": [
+            "2D Beat-'Em-Up"
+        ],
+        "metacritic_score": "88",
+        "user_score": "8.1"
+    },
+    "NieR: Automata": {
+        "platforms": [
+            "playstation-4",
+            "pc"
+        ],
+        "release_date": "Mar 7, 2017",
+        "genres": [
+            "Action RPG"
+        ],
+        "metacritic_score": "88",
+        "user_score": "8.9"
+    },
+    "Meteos": {
+        "platforms": [
+            "ds"
+        ],
+        "release_date": "Jun 28, 2005",
+        "genres": [
+            "Matching Puzzle"
+        ],
+        "metacritic_score": "88",
+        "user_score": "7.8"
+    },
+    "Rise of the Tomb Raider: 20 Year Celebration": {
+        "platforms": [
+            "playstation-4",
+            "pc"
+        ],
+        "release_date": "Oct 11, 2016",
+        "genres": [
+            "Linear Action Adventure"
+        ],
+        "metacritic_score": "88",
+        "user_score": "8.0"
+    },
+    "Shogun Showdown": {
+        "platforms": [
+            "pc",
+            "nintendo-switch",
+            "playstation-5",
+            "xbox-series-x"
+        ],
+        "release_date": "Sep 5, 2024",
+        "genres": [
+            "Card Battle"
+        ],
+        "metacritic_score": "88",
+        "user_score": "8.3"
+    },
+    "Uncharted: Drake's Fortune": {
+        "platforms": [
+            "playstation-3"
+        ],
+        "release_date": "Nov 16, 2007",
+        "genres": [
+            "Linear Action Adventure"
+        ],
+        "metacritic_score": "88",
+        "user_score": "7.7"
+    },
+    "Tom Clancy's Rainbow Six: Vegas": {
+        "platforms": [
+            "xbox-360",
+            "playstation-3",
+            "psp",
+            "pc"
+        ],
+        "release_date": "Nov 20, 2006",
+        "genres": [
+            "Tactical FPS"
+        ],
+        "metacritic_score": "88",
+        "user_score": "7.7"
+    },
+    "Warcraft III: The Frozen Throne": {
+        "platforms": [
+            "pc"
+        ],
+        "release_date": "Jul 1, 2003",
+        "genres": [
+            "Real-Time Strategy"
+        ],
+        "metacritic_score": "88",
+        "user_score": "9.2"
+    },
+    "Tactics Ogre: The Knight of Lodis": {
+        "platforms": [
+            "game-boy-advance"
+        ],
+        "release_date": "May 11, 2002",
+        "genres": [
+            "Turn-Based Tactics"
+        ],
+        "metacritic_score": "88",
+        "user_score": "8.4"
+    },
+    "Starcraft": {
+        "platforms": [
+            "pc"
+        ],
+        "release_date": "Mar 31, 1998",
+        "genres": [
+            "Command RTS"
+        ],
+        "metacritic_score": "88",
+        "user_score": "9.0"
+    },
+    "Super Street Fighter II Turbo HD Remix": {
+        "platforms": [
+            "xbox-360",
+            "playstation-3"
+        ],
+        "release_date": "Nov 26, 2008",
+        "genres": [
+            "2D Fighting"
+        ],
+        "metacritic_score": "88",
+        "user_score": "7.3"
+    },
+    "Assassin's Creed IV: Black Flag": {
+        "platforms": [
+            "playstation-4",
+            "xbox-360",
+            "pc",
+            "wii-u",
+            "playstation-3",
+            "xbox-one"
+        ],
+        "release_date": "Oct 29, 2013",
+        "genres": [
+            "Open-World Action"
+        ],
+        "metacritic_score": "88",
+        "user_score": "8.3"
+    },
+    "The Last of Us: Left Behind": {
+        "platforms": [
+            "playstation-3"
+        ],
+        "release_date": "Feb 14, 2014",
+        "genres": [
+            "Linear Action Adventure"
+        ],
+        "metacritic_score": "88",
+        "user_score": "8.1"
+    },
+    "Far Cry 3": {
+        "platforms": [
+            "playstation-3",
+            "pc",
+            "xbox-360",
+            "playstation-4"
+        ],
+        "release_date": "Dec 4, 2012",
+        "genres": [
+            "FPS"
+        ],
+        "metacritic_score": "88",
+        "user_score": "8.4"
+    },
+    "Dead Cells: Return to Castlevania": {
+        "platforms": [
+            "playstation-4",
+            "xbox-one",
+            "nintendo-switch",
+            "pc"
+        ],
+        "release_date": "Mar 6, 2023",
+        "genres": [
+            "Metroidvania"
+        ],
+        "metacritic_score": "88",
+        "user_score": "7.7"
+    },
+    "Ratchet & Clank: Rift Apart": {
+        "platforms": [
+            "playstation-5",
+            "pc"
+        ],
+        "release_date": "Jun 11, 2021",
+        "genres": [
+            "3D Platformer"
+        ],
+        "metacritic_score": "88",
+        "user_score": "8.5"
+    },
+    "Star Wars Pinball: Balance of the Force": {
+        "platforms": [
+            "xbox-360",
+            "playstation-3",
+            "playstation-vita",
+            "wii-u"
+        ],
+        "release_date": "Oct 16, 2013",
+        "genres": [
+            "Pinball"
+        ],
+        "metacritic_score": "88",
+        "user_score": "6.1"
+    },
+    "Rogue Legacy 2": {
+        "platforms": [
+            "pc",
+            "xbox-series-x",
+            "xbox-one",
+            "nintendo-switch",
+            "playstation-5"
+        ],
+        "release_date": "Apr 28, 2022",
+        "genres": [
+            "Roguelike"
+        ],
+        "metacritic_score": "88",
+        "user_score": "7.4"
+    },
+    "Fight Night Round 2": {
+        "platforms": [
+            "xbox",
+            "playstation-2",
+            "gamecube"
+        ],
+        "release_date": "Feb 28, 2005",
+        "genres": [
+            "Combat Sport"
+        ],
+        "metacritic_score": "88",
+        "user_score": "6.5"
+    },
+    "The Secret of Monkey Island: Special Edition": {
+        "platforms": [
+            "xbox-360",
+            "pc",
+            "playstation-3"
+        ],
+        "release_date": "Jul 15, 2009",
+        "genres": [
+            "Point-and-Click"
+        ],
+        "metacritic_score": "88",
+        "user_score": "7.9"
+    },
+    "Project Gotham Racing 3": {
+        "platforms": [
+            "xbox-360"
+        ],
+        "release_date": "Nov 16, 2005",
+        "genres": [
+            "Auto Racing Sim"
+        ],
+        "metacritic_score": "88",
+        "user_score": "7.9"
+    },
+    "NBA 2K17": {
+        "platforms": [
+            "xbox-one",
+            "playstation-4",
+            "pc",
+            "ios-iphoneipad"
+        ],
+        "release_date": "Sep 16, 2016",
+        "genres": [
+            "Basketball Sim"
+        ],
+        "metacritic_score": "88",
+        "user_score": "6.4"
+    },
+    "Battlefield: Bad Company 2": {
+        "platforms": [
+            "xbox-360",
+            "playstation-3",
+            "pc",
+            "ios-iphoneipad"
+        ],
+        "release_date": "Mar 2, 2010",
+        "genres": [
+            "FPS"
+        ],
+        "metacritic_score": "88",
+        "user_score": "8.3"
+    },
+    "The World Ends with You": {
+        "platforms": [
+            "ds",
+            "ios-iphoneipad"
+        ],
+        "release_date": "Apr 22, 2008",
+        "genres": [
+            "Action RPG"
+        ],
+        "metacritic_score": "88",
+        "user_score": "8.8"
+    },
+    "Torchlight II": {
+        "platforms": [
+            "pc",
+            "nintendo-switch",
+            "playstation-4",
+            "xbox-one"
+        ],
+        "release_date": "Sep 20, 2012",
+        "genres": [
+            "Action RPG"
+        ],
+        "metacritic_score": "88",
+        "user_score": "8.4"
+    },
+    "XCOM 2": {
+        "platforms": [
+            "pc",
+            "playstation-4",
+            "xbox-one"
+        ],
+        "release_date": "Feb 4, 2016",
+        "genres": [
+            "Turn-Based Tactics"
+        ],
+        "metacritic_score": "88",
+        "user_score": "7.4"
+    },
+    "Dishonored 2": {
+        "platforms": [
+            "xbox-one",
+            "playstation-4",
+            "pc"
+        ],
+        "release_date": "Nov 10, 2016",
+        "genres": [
+            "Action Adventure"
+        ],
+        "metacritic_score": "88",
+        "user_score": "8.0"
+    },
+    "Tiger Woods PGA Tour 2003": {
+        "platforms": [
+            "playstation-2",
+            "gamecube",
+            "pc",
+            "xbox"
+        ],
+        "release_date": "Oct 29, 2002",
+        "genres": [
+            "Golf Sim"
+        ],
+        "metacritic_score": "88",
+        "user_score": "1.5"
+    },
+    "JSRF: Jet Set Radio Future": {
+        "platforms": [
+            "xbox"
+        ],
+        "release_date": "Feb 25, 2002",
+        "genres": [
+            "3D Platformer"
+        ],
+        "metacritic_score": "88",
+        "user_score": "8.9"
+    },
+    "Ratchet & Clank": {
+        "platforms": [
+            "playstation-2"
+        ],
+        "release_date": "Nov 4, 2002",
+        "genres": [
+            "3D Platformer"
+        ],
+        "metacritic_score": "88",
+        "user_score": "8.6"
+    },
+    "NCAA Football 2005": {
+        "platforms": [
+            "playstation-2",
+            "xbox",
+            "gamecube"
+        ],
+        "release_date": "Jul 15, 2004",
+        "genres": [
+            "Football Sim"
+        ],
+        "metacritic_score": "88",
+        "user_score": "6.1"
+    },
+    "Myth II: Soulblighter": {
+        "platforms": [
+            "pc"
+        ],
+        "release_date": "Nov 30, 1998",
+        "genres": [
+            "Real-Time Strategy"
+        ],
+        "metacritic_score": "88",
+        "user_score": "8.8"
+    },
+    "Red Faction": {
+        "platforms": [
+            "playstation-2",
+            "pc"
+        ],
+        "release_date": "May 22, 2001",
+        "genres": [
+            "FPS"
+        ],
+        "metacritic_score": "88",
+        "user_score": "7.8"
+    },
+    "ESPN NHL Hockey": {
+        "platforms": [
+            "playstation-2",
+            "xbox"
+        ],
+        "release_date": "Sep 9, 2003",
+        "genres": [
+            "Hockey Sim"
+        ],
+        "metacritic_score": "88",
+        "user_score": "2.0"
+    },
+    "Horizon Forbidden West": {
+        "platforms": [
+            "playstation-5",
+            "playstation-4"
+        ],
+        "release_date": "Feb 18, 2022",
+        "genres": [
+            "Open-World Action"
+        ],
+        "metacritic_score": "88",
+        "user_score": "8.0"
+    },
+    "XCOM: Enemy Within": {
+        "platforms": [
+            "playstation-3",
+            "xbox-360",
+            "ios-iphoneipad"
+        ],
+        "release_date": "Nov 12, 2013",
+        "genres": [
+            "Turn-Based Tactics"
+        ],
+        "metacritic_score": "88",
+        "user_score": "7.9"
+    },
+    "Divinity: Original Sin Enhanced Edition": {
+        "platforms": [
+            "xbox-one",
+            "pc",
+            "playstation-4"
+        ],
+        "release_date": "Oct 27, 2015",
+        "genres": [
+            "Western RPG"
+        ],
+        "metacritic_score": "88",
+        "user_score": "8.2"
+    },
+    "Injustice 2: Legendary Edition": {
+        "platforms": [
+            "playstation-4",
+            "pc",
+            "xbox-one"
+        ],
+        "release_date": "Mar 27, 2018",
+        "genres": [
+            "2D Fighting"
+        ],
+        "metacritic_score": "88",
+        "user_score": "7.7"
+    },
+    "Fire Emblem Fates: Special Edition": {
+        "platforms": [
+            "3ds"
+        ],
+        "release_date": "Feb 19, 2016",
+        "genres": [
+            "Turn-Based Tactics"
+        ],
+        "metacritic_score": "88",
+        "user_score": "7.9"
+    },
+    "Pinball FX 2": {
+        "platforms": [
+            "xbox-360",
+            "pc",
+            "xbox-one"
+        ],
+        "release_date": "Oct 27, 2010",
+        "genres": [
+            "Pinball"
+        ],
+        "metacritic_score": "88",
+        "user_score": "8.2"
+    },
+    "Final Fantasy Tactics": {
+        "platforms": [
+            "playstation",
+            "psp",
+            "ios-iphoneipad"
+        ],
+        "release_date": "Oct 9, 2007",
+        "genres": [
+            "Turn-Based Tactics"
+        ],
+        "metacritic_score": "88",
+        "user_score": "8.8"
+    },
+    "NHL 11": {
+        "platforms": [
+            "playstation-3",
+            "xbox-360"
+        ],
+        "release_date": "Sep 7, 2010",
+        "genres": [
+            "Hockey Sim"
+        ],
+        "metacritic_score": "88",
+        "user_score": "7.7"
+    },
+    "Wario Land 4": {
+        "platforms": [
+            "game-boy-advance"
+        ],
+        "release_date": "Nov 18, 2001",
+        "genres": [
+            "2D Platformer"
+        ],
+        "metacritic_score": "88",
+        "user_score": "8.8"
+    },
+    "The Elder Scrolls III: Morrowind - Game of the Year Edition": {
+        "platforms": [
+            "xbox"
+        ],
+        "release_date": "Oct 31, 2003",
+        "genres": [
+            "Western RPG"
+        ],
+        "metacritic_score": "88",
+        "user_score": "8.6"
+    },
+    "WarioWare: Twisted!": {
+        "platforms": [
+            "game-boy-advance"
+        ],
+        "release_date": "May 23, 2005",
+        "genres": [
+            "Party"
+        ],
+        "metacritic_score": "88",
+        "user_score": "8.5"
+    },
+    "It Takes Two": {
+        "platforms": [
+            "pc",
+            "playstation-4",
+            "xbox-one",
+            "playstation-5",
+            "xbox-series-x",
+            "nintendo-switch"
+        ],
+        "release_date": "Mar 26, 2021",
+        "genres": [
+            "Linear Action Adventure"
+        ],
+        "metacritic_score": "88",
+        "user_score": "8.9"
+    },
+    "Pokemon Y": {
+        "platforms": [
+            "3ds"
+        ],
+        "release_date": "Oct 12, 2013",
+        "genres": [
+            "Trainer RPG"
+        ],
+        "metacritic_score": "88",
+        "user_score": "7.5"
+    },
+    "Deathloop": {
+        "platforms": [
+            "pc",
+            "playstation-5",
+            "xbox-series-x"
+        ],
+        "release_date": "Sep 14, 2021",
+        "genres": [
+            "FPS"
+        ],
+        "metacritic_score": "88",
+        "user_score": "6.8"
+    },
+    "Ori and the Blind Forest": {
+        "platforms": [
+            "xbox-one",
+            "pc"
+        ],
+        "release_date": "Mar 11, 2015",
+        "genres": [
+            "Metroidvania"
+        ],
+        "metacritic_score": "88",
+        "user_score": "8.6"
+    },
+    "The Talos Principle 2": {
+        "platforms": [
+            "xbox-series-x",
+            "playstation-5",
+            "pc"
+        ],
+        "release_date": "Nov 2, 2023",
+        "genres": [
+            "First-Person Adventure"
+        ],
+        "metacritic_score": "88",
+        "user_score": "8.6"
+    },
+    "Shogo: Mobile Armor Division": {
+        "platforms": [
+            "pc"
+        ],
+        "release_date": "Sep 30, 1998",
+        "genres": [
+            "FPS"
+        ],
+        "metacritic_score": "88",
+        "user_score": "8.3"
+    },
+    "Thirty Flights of Loving": {
+        "platforms": [
+            "pc"
+        ],
+        "release_date": "Aug 20, 2012",
+        "genres": [
+            "First-Person Adventure"
+        ],
+        "metacritic_score": "88",
+        "user_score": "5.0"
+    },
+    "The Witcher 2: Assassins of Kings": {
+        "platforms": [
+            "pc",
+            "xbox-360"
+        ],
+        "release_date": "Apr 17, 2012",
+        "genres": [
+            "Action RPG"
+        ],
+        "metacritic_score": "88",
+        "user_score": "8.3"
+    },
+    "Hearthstone: Heroes of Warcraft": {
+        "platforms": [
+            "pc",
+            "ios-iphoneipad"
+        ],
+        "release_date": "Mar 11, 2014",
+        "genres": [
+            "Card Battle"
+        ],
+        "metacritic_score": "88",
+        "user_score": "5.7"
+    },
+    "Unity of Command II": {
+        "platforms": [
+            "pc"
+        ],
+        "release_date": "Nov 12, 2019",
+        "genres": [
+            "4X Strategy"
+        ],
+        "metacritic_score": "88",
+        "user_score": "7.4"
+    },
+    "Grand Theft Auto: Liberty City Stories": {
+        "platforms": [
+            "psp",
+            "playstation-2",
+            "ios-iphoneipad"
+        ],
+        "release_date": "Oct 24, 2005",
+        "genres": [
+            "Open-World Action"
+        ],
+        "metacritic_score": "88",
+        "user_score": "8.1"
+    },
+    "Metroid Dread": {
+        "platforms": [
+            "nintendo-switch"
+        ],
+        "release_date": "Oct 8, 2021",
+        "genres": [
+            "Metroidvania"
+        ],
+        "metacritic_score": "88",
+        "user_score": "8.8"
+    },
+    "Medieval II: Total War": {
+        "platforms": [
+            "pc",
+            "ios-iphoneipad"
+        ],
+        "release_date": "Nov 13, 2006",
+        "genres": [
+            "Real-Time Strategy"
+        ],
+        "metacritic_score": "88",
+        "user_score": "9.0"
+    },
+    "Super Mario Maker 2": {
+        "platforms": [
+            "nintendo-switch"
+        ],
+        "release_date": "Jun 28, 2019",
+        "genres": [
+            "2D Platformer"
+        ],
+        "metacritic_score": "88",
+        "user_score": "8.4"
+    },
+    "The Crimson Diamond": {
+        "platforms": [
+            "pc"
+        ],
+        "release_date": "Aug 15, 2024",
+        "genres": [
+            "Text Adventure"
+        ],
+        "metacritic_score": "88",
+        "user_score": "5.7"
+    },
+    "Sly 2: Band of Thieves": {
+        "platforms": [
+            "playstation-2"
+        ],
+        "release_date": "Sep 14, 2004",
+        "genres": [
+            "3D Platformer"
+        ],
+        "metacritic_score": "88",
+        "user_score": "8.9"
+    },
+    "F1 2002": {
+        "platforms": [
+            "gamecube",
+            "playstation-2",
+            "pc",
+            "game-boy-advance"
+        ],
+        "release_date": "Jun 11, 2002",
+        "genres": [
+            "Auto Racing Sim"
+        ],
+        "metacritic_score": "88",
+        "user_score": "7.5"
+    },
+    "FIFA Soccer 2003": {
+        "platforms": [
+            "game-boy-advance",
+            "pc",
+            "gamecube",
+            "playstation-2",
+            "playstation",
+            "xbox"
+        ],
+        "release_date": "Nov 14, 2002",
+        "genres": [
+            "Soccer Sim"
+        ],
+        "metacritic_score": "88",
+        "user_score": "7.3"
+    },
+    "Bomberman Tournament": {
+        "platforms": [
+            "game-boy-advance"
+        ],
+        "release_date": "Jun 29, 2001",
+        "genres": [
+            "Open-World Action"
+        ],
+        "metacritic_score": "88",
+        "user_score": "8.9"
+    },
+    "Tekken 5: Dark Resurrection": {
+        "platforms": [
+            "playstation-3",
+            "psp"
+        ],
+        "release_date": "Jul 25, 2006",
+        "genres": [
+            "3D Fighting"
+        ],
+        "metacritic_score": "88",
+        "user_score": "8.5"
+    },
+    "The Stanley Parable": {
+        "platforms": [
+            "pc"
+        ],
+        "release_date": "Oct 17, 2013",
+        "genres": [
+            "First-Person Adventure"
+        ],
+        "metacritic_score": "88",
+        "user_score": "8.1"
+    },
+    "God of War: Ragnarok - Valhalla": {
+        "platforms": [
+            "playstation-5"
+        ],
+        "release_date": "Dec 12, 2023",
+        "genres": [
+            "Action Adventure"
+        ],
+        "metacritic_score": "88",
+        "user_score": "8.4"
+    },
+    "Guacamelee! Gold Edition": {
+        "platforms": [
+            "pc"
+        ],
+        "release_date": "Aug 8, 2013",
+        "genres": [
+            "Metroidvania"
+        ],
+        "metacritic_score": "88",
+        "user_score": "7.5"
+    },
+    "Monster Hunter Rise": {
+        "platforms": [
+            "nintendo-switch",
+            "pc",
+            "playstation-5",
+            "xbox-series-x"
+        ],
+        "release_date": "Mar 26, 2021",
+        "genres": [
+            "Action RPG"
+        ],
+        "metacritic_score": "88",
+        "user_score": "8.5"
+    },
+    "ESPN NHL 2K5": {
+        "platforms": [
+            "playstation-2",
+            "xbox"
+        ],
+        "release_date": "Aug 30, 2004",
+        "genres": [
+            "Hockey Sim"
+        ],
+        "metacritic_score": "88",
+        "user_score": "6.6"
+    },
+    "Counter-Strike: Source": {
+        "platforms": [
+            "pc"
+        ],
+        "release_date": "Oct 7, 2004",
+        "genres": [
+            "Tactical FPS"
+        ],
+        "metacritic_score": "88",
+        "user_score": "8.2"
+    },
+    "Fire Emblem": {
+        "platforms": [
+            "game-boy-advance"
+        ],
+        "release_date": "Nov 3, 2003",
+        "genres": [
+            "Turn-Based Tactics"
+        ],
+        "metacritic_score": "88",
+        "user_score": "9.0"
+    },
+    "Fire Emblem Fates: Revelation": {
+        "platforms": [
+            "3ds"
+        ],
+        "release_date": "Mar 10, 2016",
+        "genres": [
+            "Turn-Based Tactics"
+        ],
+        "metacritic_score": "88",
+        "user_score": "7.1"
+    },
+    "Sid Meier's Civilization VI": {
+        "platforms": [
+            "pc",
+            "ios-iphoneipad",
+            "nintendo-switch",
+            "playstation-4",
+            "xbox-one"
+        ],
+        "release_date": "Oct 20, 2016",
+        "genres": [
+            "4X Strategy"
+        ],
+        "metacritic_score": "88",
+        "user_score": "7.2"
+    },
+    "Battlefield 1": {
+        "platforms": [
+            "xbox-one",
+            "playstation-4",
+            "pc"
+        ],
+        "release_date": "Oct 21, 2016",
+        "genres": [
+            "Tactical FPS"
+        ],
+        "metacritic_score": "88",
+        "user_score": "7.4"
+    },
+    "Paper Mario: The Thousand-Year Door": {
+        "platforms": [
+            "nintendo-switch"
+        ],
+        "release_date": "May 23, 2024",
+        "genres": [
+            "JRPG"
+        ],
+        "metacritic_score": "88",
+        "user_score": "8.7"
+    },
+    "Starcraft II: Legacy of the Void": {
+        "platforms": [
+            "pc"
+        ],
+        "release_date": "Nov 10, 2015",
+        "genres": [
+            "Command RTS"
+        ],
+        "metacritic_score": "88",
+        "user_score": "8.3"
+    },
+    "Diablo III": {
+        "platforms": [
+            "playstation-3",
+            "pc",
+            "xbox-360"
+        ],
+        "release_date": "May 15, 2012",
+        "genres": [
+            "Action RPG"
+        ],
+        "metacritic_score": "88",
+        "user_score": "4.2"
+    },
+    "Resident Evil 4: Separate Ways": {
+        "platforms": [
+            "playstation-5",
+            "xbox-series-x",
+            "pc"
+        ],
+        "release_date": "Sep 21, 2023",
+        "genres": [
+            "Survival"
+        ],
+        "metacritic_score": "88",
+        "user_score": "Unknown Score"
+    },
+    "Diablo III: Eternal Collection": {
+        "platforms": [
+            "nintendo-switch"
+        ],
+        "release_date": "Nov 2, 2018",
+        "genres": [
+            "Action RPG"
+        ],
+        "metacritic_score": "88",
+        "user_score": "7.2"
+    },
+    "Oddworld: Stranger's Wrath": {
+        "platforms": [
+            "xbox",
+            "pc",
+            "ios-iphoneipad"
+        ],
+        "release_date": "Jan 25, 2005",
+        "genres": [
+            "Action Adventure"
+        ],
+        "metacritic_score": "88",
+        "user_score": "8.1"
+    },
+    "Rise of Nations: Thrones & Patriots": {
+        "platforms": [
+            "pc"
+        ],
+        "release_date": "Apr 27, 2004",
+        "genres": [
+            "Real-Time Strategy"
+        ],
+        "metacritic_score": "88",
+        "user_score": "8.7"
+    },
+    "Sid Meier's Pirates!": {
+        "platforms": [
+            "xbox",
+            "psp",
+            "pc",
+            "wii",
+            "ios-iphoneipad"
+        ],
+        "release_date": "Nov 22, 2004",
+        "genres": [
+            "Strategy"
+        ],
+        "metacritic_score": "88",
+        "user_score": "8.3"
+    },
+    "EVE Online: Special Edition": {
+        "platforms": [
+            "pc"
+        ],
+        "release_date": "Mar 10, 2009",
+        "genres": [
+            "Compilation"
+        ],
+        "metacritic_score": "88",
+        "user_score": "7.3"
+    },
+    "SteamWorld Dig 2": {
+        "platforms": [
+            "nintendo-switch",
+            "pc",
+            "playstation-4",
+            "playstation-vita",
+            "3ds",
+            "xbox-one"
+        ],
+        "release_date": "Sep 21, 2017",
+        "genres": [
+            "Metroidvania"
+        ],
+        "metacritic_score": "88",
+        "user_score": "8.5"
+    },
+    "FIFA Soccer 11": {
+        "platforms": [
+            "ios-iphoneipad",
+            "playstation-3",
+            "pc",
+            "xbox-360",
+            "wii",
+            "psp",
+            "ds"
+        ],
+        "release_date": "Sep 28, 2010",
+        "genres": [
+            "Soccer Sim"
+        ],
+        "metacritic_score": "88",
+        "user_score": "7.6"
+    },
+    "LittleBigPlanet PS Vita": {
+        "platforms": [
+            "playstation-vita"
+        ],
+        "release_date": "Sep 18, 2012",
+        "genres": [
+            "3D Platformer"
+        ],
+        "metacritic_score": "88",
+        "user_score": "8.6"
+    },
+    "Armadillo Run": {
+        "platforms": [
+            "pc"
+        ],
+        "release_date": "Apr 22, 2006",
+        "genres": [
+            "Action Puzzle"
+        ],
+        "metacritic_score": "88",
+        "user_score": "7.9"
+    },
+    "World of Warcraft: Legion": {
+        "platforms": [
+            "pc"
+        ],
+        "release_date": "Aug 29, 2016",
+        "genres": [
+            "MMORPG"
+        ],
+        "metacritic_score": "88",
+        "user_score": "7.3"
+    },
+    "Pillars of Eternity II: Deadfire": {
+        "platforms": [
+            "pc",
+            "playstation-4",
+            "xbox-one"
+        ],
+        "release_date": "May 8, 2018",
+        "genres": [
+            "Western RPG"
+        ],
+        "metacritic_score": "88",
+        "user_score": "7.9"
+    },
+    "DOOM Eternal": {
+        "platforms": [
+            "playstation-4",
+            "xbox-one",
+            "pc",
+            "nintendo-switch",
+            "playstation-5"
+        ],
+        "release_date": "Mar 20, 2020",
+        "genres": [
+            "FPS"
+        ],
+        "metacritic_score": "88",
+        "user_score": "8.6"
+    },
+    "Art of Balance": {
+        "platforms": [
+            "wii",
+            "wii-u",
+            "playstation-4",
+            "nintendo-switch",
+            "3ds"
+        ],
+        "release_date": "Feb 15, 2010",
+        "genres": [
+            "Puzzle"
+        ],
+        "metacritic_score": "88",
+        "user_score": "6.5"
+    },
+    "Joe Danger: Special Edition": {
+        "platforms": [
+            "xbox-360"
+        ],
+        "release_date": "Dec 14, 2011",
+        "genres": [
+            "Auto Racing"
+        ],
+        "metacritic_score": "88",
+        "user_score": "7.6"
+    },
+    "Crimson Skies: High Road to Revenge": {
+        "platforms": [
+            "xbox"
+        ],
+        "release_date": "Oct 21, 2003",
+        "genres": [
+            "Aircraft Combat Sim"
+        ],
+        "metacritic_score": "88",
+        "user_score": "8.8"
+    },
+    "Dark Age of Camelot": {
+        "platforms": [
+            "pc"
+        ],
+        "release_date": "Oct 9, 2001",
+        "genres": [
+            "MMORPG"
+        ],
+        "metacritic_score": "88",
+        "user_score": "7.9"
+    },
+    "Baldur's Gate II: Throne of Bhaal": {
+        "platforms": [
+            "pc"
+        ],
+        "release_date": "Jun 21, 2001",
+        "genres": [
+            "Western RPG"
+        ],
+        "metacritic_score": "88",
+        "user_score": "8.7"
+    },
+    "NASCAR Thunder 2004": {
+        "platforms": [
+            "pc",
+            "playstation-2",
+            "xbox"
+        ],
+        "release_date": "Sep 16, 2003",
+        "genres": [
+            "Auto Racing Sim"
+        ],
+        "metacritic_score": "88",
+        "user_score": "7.4"
+    },
+    "Cave Story Plus": {
+        "platforms": [
+            "nintendo-switch",
+            "pc"
+        ],
+        "release_date": "Jun 20, 2017",
+        "genres": [
+            "Metroidvania"
+        ],
+        "metacritic_score": "88",
+        "user_score": "7.9"
+    }
+}
