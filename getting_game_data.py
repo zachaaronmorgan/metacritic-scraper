@@ -5,6 +5,7 @@ import logging
 import time
 import random
 from scrape_helper_functions import fetch_with_retry
+from tqdm import tqdm
 
 # Configure logging
 logging.basicConfig(
@@ -23,10 +24,12 @@ with open('game_links.json', 'r') as f:
 headers = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36'
 }
+min_delay = 5
+max_delay = 10
 
 game_info = {}
 num_links_scraped = 0
-for link in links:
+for link in tqdm(links, desc="Scraping game data", unit="link"):
     logging.info(f"Fetching link: {link}")
     try: 
         response = fetch_with_retry(link, headers=headers)
@@ -36,7 +39,7 @@ for link in links:
         if response.status_code == 429:
             logging.warning(f"Rate-limited on page: {link}. Retrying after 30 seconds.")
             time.sleep(30)  # Longer delay for rate limit
-        logging.error(f"Failed to fetch {link}: {e}")
+        logging.error(f"Error fetching {link}: {type(e).__name__}: {e}")
         continue
 
     soup = BeautifulSoup(response.text, 'html.parser')
@@ -85,7 +88,7 @@ for link in links:
     logging.info(f"Added data for: {title}")
 
     # Random delay to avoid being rate-limited
-    time.sleep(random.uniform(5, 10))
+    time.sleep(random.uniform(min_delay, max_delay))
 
 # Save the game_info dictionary to a file
 with open('game_info.json', 'w') as f:

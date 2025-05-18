@@ -8,6 +8,7 @@ selenium = "*"
 requests = "*"
 pandas = "*"
 beautifulsoup4 = "*"
+tqdm = "*"
 
 [dev-packages]
 
